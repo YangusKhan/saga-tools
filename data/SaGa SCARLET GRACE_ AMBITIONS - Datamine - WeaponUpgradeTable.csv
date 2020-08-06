@@ -1,0 +1,1076 @@
+Weapon Type,Type,Weapon,Weapon,Pot,Grd,Str,Dex,Mob,End,Int,Acu,Techs,Smithy Rank,Upgrade from
+LSword,standard,Iron Sword,"Iron Sword
+アイアンソード",10,25,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",I,
+LSword,standard,Bastard Sword,"Bastard Sword
+バスタードソード",11,26,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",I,- Iron Sword: Terra x30 (Common Smithy)
+LSword,standard,Grand Bastard Sword,"Grand Bastard Sword
+バスタードソード・克",12,27,0,0,1,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",I,- Iron Sword: Ignis x30 (Common Smithy)
+LSword,standard,Fine Iron Sword,"Fine Iron Sword
+アイアンソード・改",11,26,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",I,"- Iron Sword: Natura x6, Ignis x6, Terra x6, Aes x6, Unda x6 (Common Smithy)"
+LSword,standard,Longsword,"Longsword
+ロングソード",14,29,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",II,"- Bastard Sword: Aes x80 (Common Smithy)
+- Grand Bastard Sword: Aes x55 (Common Smithy)
+- Fine Iron Sword: Unda x40, Ore Fragment x15 (Common Smithy)"
+LSword,standard,Terra Longsword,"Terra Longsword
+ロングソード・土行",14,29,0,0,-1,1,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",II,"- Bastard Sword: Terra x80 (Common Smithy)
+- Grand Bastard Sword: Terra x55 (Common Smithy)
+- Fine Iron Sword: Terra x80 (Common Smithy)"
+LSword,technical,Gladius,"Gladius
+グラディウス",18,43,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",IV,"- Longsword: Ignis x130 (Common Smithy)
+- Terra Longsword: Unda x130 (Common Smithy)"
+LSword,technical,Natura Gladius,"Natura Gladius
+グラディウス・木行",18,43,0,1,-1,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",IV,- Longsword: Natura x130 (Common Smithy)
+LSword,technical,Grand Gladius,"Grand Gladius
+グラディウス・克",21,45,0,0,1,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",V,- Terra Longsword: Aes x155 (Common Smithy)
+LSword,standard,Fine Longsword,"Fine Longsword
+ロングソード・改",20,33,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",IV,"- Longsword: Natura x30, Ignis x30, Terra x30, Aes x30, Unda x30 (Common Smithy)
+- Terra Longsword: Unda x65, Ore Fragment x25 (Common Smithy)"
+LSword,standard,Falcata,"Falcata
+ファルカタ",26,37,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",VI,"- Gladius: Natura x180 (Common Smithy)
+- Natura Gladius: Terra x90, Fibrous Matter x30 (Common Smithy)
+- Grand Gladius: Natura x155 (Common Smithy)
+- Fine Longsword: Terra x90, Fibrous Matter x30 (Common Smithy)"
+LSword,standard,Unda Falcata,"Unda Falcata
+ファルカタ・水行",26,37,0,0,-1,0,1,1,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",VI,"- Gladius: Unda x180 (Common Smithy)
+- Grand Gladius: Unda x155 (Common Smithy)"
+LSword,standard,Grand Falcata,"Grand Falcata
+ファルカタ・克",29,39,0,0,1,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",VII,- Natura Gladius: Terra x205 (Common Smithy)
+LSword,standard,Ignis Falcata,"Ignis Falcata
+ファルカタ・火行",26,37,1,0,-1,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust",VI,"- Natura Gladius: Ignis x180 (Common Smithy)
+- Fine Longsword: Ignis x180 (Common Smithy)"
+LSword,standard,Ghoststeel Blade,"Ghoststeel Blade
+霊銀の剣",31,35,0,0,0,0,1,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",VIII,"- Falcata: Unda x230 (Common Smithy)
+- Unda Falcata: Ignis x230 (Common Smithy)
+- Grand Falcata: Unda x205 (Common Smithy)
+- Ignis Falcata: Aes x230 (Common Smithy)"
+LSword,standard,Aes Ghoststeel Blade,"Aes Ghoststeel Blade
+霊銀の剣・金行",33,35,0,0,-1,0,1,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",VIII,"- Falcata: Aes x230 (Common Smithy)
+- Grand Falcata: Aes x205 (Common Smithy)"
+LSword,standard,Grand Ghoststeel Blade,"Grand Ghoststeel Blade
+霊銀の剣・克",34,38,0,0,1,0,1,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",IX,- Unda Falcata: Natura x260 (Common Smithy)
+LSword,standard,Terra Ghoststeel Blade,"Terra Ghoststeel Blade
+霊銀の剣・土行",31,35,0,0,-1,1,1,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",VIII,- Ignis Falcata: Terra x230 (Common Smithy)
+LSword,standard,Fine Falcata,"Fine Falcata
+ファルカタ・改",33,40,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",VIII,"- Falcata: Natura x50, Ignis x50, Terra x50, Aes x50, Unda x50 (Common Smithy)
+- Unda Falcata: Terra x80, Ash x30, Bone Shard x30 (Common Smithy)
+- Grand Falcata: Natura x45, Ignis x45, Terra x45, Aes x45, Unda x45 (Common Smithy)
+- Ignis Falcata: Terra x80, Ash x30, Bone Shard x30 (Common Smithy)"
+LSword,technical,Astral Blade,"Astral Blade
+星辰の剣",37,44,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Ghoststeel Blade: Terra x285 (Common Smithy)
+- Aes Ghoststeel Blade: Natura x285 (Common Smithy)
+- Grand Ghoststeel Blade: Terra x260 (Common Smithy)"
+LSword,technical,Ignis Astral Blade,"Ignis Astral Blade
+星辰の剣・火行",37,44,1,0,-1,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Ghoststeel Blade: Ignis x285 (Common Smithy)
+- Grand Ghoststeel Blade: Ignis x260 (Common Smithy)"
+LSword,technical,Grand Astral Blade,"Grand Astral Blade
+星辰の剣・克",40,47,0,0,1,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XI,"- Aes Ghoststeel Blade: Unda x310 (Common Smithy)
+- Terra Ghoststeel Blade: Unda x310 (Common Smithy)
+- Fine Falcata: Unda x310 (Common Smithy)"
+LSword,technical,Aes Astral Blade,"Aes Astral Blade
+星辰の剣・金行",38,44,0,0,-1,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Terra Ghoststeel Blade: Aes x285 (Common Smithy)
+- Fine Falcata: Aes x285 (Common Smithy)"
+LSword,standard,Fine Astral Blade,"Fine Astral Blade
+霊銀の剣・改",38,39,0,0,0,0,1,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",X,"- Ghoststeel Blade: Natura x60, Ignis x60, Terra x60, Aes x60, Unda x60 (Common Smithy)
+- Aes Ghoststeel Blade: Natura x95, Obsidian x20, Beast Hide x20 (Common Smithy)
+- Grand Ghoststeel Blade: Natura x55, Ignis x55, Terra x55, Aes x55, Unda x55 (Common Smithy)
+- Terra Ghoststeel Blade: Natura x95, Obsidian x20, Beast Hide x20 (Common Smithy)
+- Fine Falcata: Natura x95, Obsidian x20, Beast Hide x20 (Common Smithy)"
+LSword,standard,Sunsilver Blade,"Sunsilver Blade
+太陽銀の剣",41,53,0,0,0,0,0,0,"Sonic Slash, Brusque Slice, Rampart, Sonic Blade, Triple Thrust, Thousand Blades",XII,"- Astral Blade: Luminescent Oil x10, Ignis x235 (Ignis Smithy)
+- Ignis Astral Blade: Prisma x70, Natura x70, Terra x70, Aes x70, Unda x70 (Ignis Smithy)
+- Grand Astral Blade: Luminescent Oil x10, Ignis x215 (Ignis Smithy)
+- Aes Astral Blade: Luminescent Oil x10, Ignis x235 (Ignis Smithy)
+- Fine Astral Blade: Luminescent Oil x10, Ignis x235 (Ignis Smithy)"
+LSword,technical,Bladebreaker,"Bladebreaker
+ソードブレイカー",20,23,1,1,0,-1,-1,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",I,
+LSword,technical,Eckesachs,"Eckesachs
+魔神剣",27,27,2,0,0,-2,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",VI,- Bladebreaker: Aes x180 (Common Smithy)
+LSword,technical,Grand Eckesachs,"Grand Eckesachs
+魔神剣・克",30,29,2,0,1,-2,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",VII,- Bladebreaker: Terra x205 (Common Smithy)
+LSword,technical,Dainsleif,"Dainsleif
+鬼神剣",32,30,2,0,0,-2,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",VIII,"- Eckesachs: Unda x230 (Common Smithy)
+- Grand Eckesachs: Unda x205 (Common Smithy)"
+LSword,technical,Aes Dainsleif,"Aes Dainsleif
+鬼神剣・金行",34,30,2,0,-1,-2,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",VIII,"- Eckesachs: Aes x230 (Common Smithy)
+- Grand Eckesachs: Aes x205 (Common Smithy)"
+LSword,technical,Splasher,"Splasher
+スプラッシャー",38,34,1,1,0,-1,-1,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Dainsleif: Aes x285 (Common Smithy)
+- Aes Dainsleif: Natura x285 (Common Smithy)"
+LSword,technical,Terra Splasher,"Terra Splasher
+スプラッシャー・土行",38,34,1,1,-1,0,-1,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,- Dainsleif: Terra x285 (Common Smithy)
+LSword,technical,Grand Splasher,"Grand Splasher
+スプラッシャー・克",41,37,1,1,1,-1,-1,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XI,- Aes Dainsleif: Unda x310 (Common Smithy)
+LSword,technical,Vanisher,"Vanisher
+ヴァニッシャー",43,38,2,0,0,-2,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XII,"- Splasher: Icelight x10, Unda x235 (Rare Smithy)
+- Terra Splasher: Icelight x10, Unda x235 (Unda Smithy)
+- Grand Splasher: Icelight x10, Unda x215 (Rare Smithy)"
+LSword,curved,Scimitar,"Scimitar
+曲剣",13,16,0,0,1,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune",I,
+LSword,curved,Falchion,"Falchion
+ファルシオン",16,19,0,0,1,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune",II,"- Fine Iron Sword: Ore Fragment x6, Aes x65 (Aes Smithy)
+- Scimitar: Unda x80 (Common Smithy)"
+LSword,curved,Grand Falchion,"Grand Falchion
+ファルシオン・克",18,21,0,0,2,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune",III,- Scimitar: Aes x105 (Common Smithy)
+LSword,curved,Cutlass,"Cutlass
+カットラス",21,23,0,0,1,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune",IV,"- Falchion: Natura x130 (Common Smithy)
+- Grand Falchion: Natura x105 (Common Smithy)"
+LSword,curved,Unda Cutlass,"Unda Cutlass
+カットラス・水行",21,23,0,0,0,0,1,1,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune",IV,"- Falchion: Unda x130 (Common Smithy)
+- Grand Falchion: Unda x105 (Common Smithy)"
+LSword,curved,Dual Fullers,"Dual Fullers
+異国式二連剣",28,27,0,0,1,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune",VI,- Unda Cutlass: Ignis x180 (Common Smithy)
+LSword,curved,Grand Dual Fullers,"Grand Dual Fullers
+異国式二連剣・克",31,29,0,0,2,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune, Halting Blade",VII,"- Cutlass: Natura x205 (Common Smithy)
+- Unda Cutlass: Natura x205 (Common Smithy)"
+LSword,curved,Unda Dual Fullers,"Unda Dual Fullers
+異国式二連剣・水行",28,27,0,0,0,0,1,1,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune",VI,- Cutlass: Unda x180 (Common Smithy)
+LSword,curved,Waxing Crescent,"Waxing Crescent
+繊月三日月",44,38,0,0,2,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune, Halting Blade",XII,"- Dual Fullers: Screamroot x10, Natura x235 (Rare Smithy)
+- Grand Dual Fullers: Screamroot x10, Natura x235 (Rare Smithy)
+- Unda Dual Fullers: Screamroot x10, Natura x235 (Natura Smithy)"
+LSword,technical,Ancient Redwood Blade,"Ancient Redwood Blade
+大樹の古剣",25,37,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",I,
+LSword,technical,Redwood Blade,"Redwood Blade
+大樹の剣",36,44,0,1,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Ancient Redwood Blade: Latex x40, Natura x60 (Rare Smithy)"
+LSword,technical,Redwood Curtana,"Redwood Curtana
+大樹の聖剣",52,56,0,1,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XIV,"- Redwood Blade: Screamroot x30, Natura x115 (Rare Smithy)"
+LSword,technical,Ancient Volcano Blade,"Ancient Volcano Blade
+火山の古剣",25,37,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",I,
+LSword,technical,Volcano Blade,"Volcano Blade
+火山の剣",36,44,1,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Ancient Volcano Blade: Wax x40, Ignis x60 (Rare Smithy)"
+LSword,technical,Volcano Curtana,"Volcano Curtana
+火山の聖剣",52,56,1,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XIV,"- Volcano Blade: Luminescent Oil x30, Ignis x115 (Rare Smithy)"
+LSword,technical,Ancient Firma Blade,"Ancient Firma Blade
+大地の古剣",25,37,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",I,
+LSword,technical,Firma Blade,"Firma Blade
+大地の剣",36,44,0,0,0,1,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Ancient Firma Blade: Leather x40, Terra x60 (Rare Smithy)"
+LSword,technical,Firma Curtana,"Firma Curtana
+大地の聖剣",52,56,0,0,0,1,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XIV,"- Firma Blade: Whetstone x30, Terra x115 (Rare Smithy)"
+LSword,technical,Ancient Platinum Blade,"Ancient Platinum Blade
+白金の古剣",25,37,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",I,
+LSword,technical,Platinum Blade,"Platinum Blade
+白金の剣",36,54,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Ancient Platinum Blade: Obsidian x40, Aes x60 (Rare Smithy)"
+LSword,technical,Platinum Curtana,"Platinum Curtana
+白金の聖剣",52,66,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XIV,"- Platinum Blade: Ancient Jewel x30, Aes x115 (Rare Smithy)"
+LSword,technical,Ancient Seiche Blade,"Ancient Seiche Blade
+大海の古剣",25,37,0,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy",I,
+LSword,technical,Seiche Blade,"Seiche Blade
+大海の剣",36,44,0,0,0,0,1,1,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",X,"- Ancient Seiche Blade: Beast Hide x40, Unda x60 (Rare Smithy)"
+LSword,technical,Seiche Curtana,"Seiche Curtana
+大海の聖剣",52,56,0,0,0,0,1,1,"Sonic Slash, Rampart, Rising Nova, Heaven and Earth, Apathy, Multi-Way",XIV,"- Seiche Blade: Icelight x30, Unda x115 (Rare Smithy)"
+LSword,curved,Twister,"Twister
+秘剣トルネード",38,34,0,0,3,0,0,0,"Sonic Slash, Brusque Slice, Heaven and Earth, Thousand Blades, Demilune, Halting Blade",I,
+LSword,special,Flameblade,"Flameblade
+炎の剣",33,40,3,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Rosario Impale, Apathy, Multi-Way",I,
+LSword,special,Valeria Heart,"Valeria Heart
+ヴァレリアハート",58,56,3,0,0,0,0,0,"Sonic Slash, Rampart, Rising Nova, Rosario Impale, Apathy, Multi-Way",XIV,"- Flameblade: Luminescent Oil x30, Ignis x115 (Rare Smithy)"
+GSword,standard,Greatsword,"Greatsword
+大剣",11,25,0,0,-1,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",I,
+GSword,standard,Faussar,"Faussar
+フォセ",12,26,0,0,-1,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",I,- Greatsword: Aes x30 (Common Smithy)
+GSword,standard,Terra Faussar,"Terra Faussar
+フォセ・土行",12,26,0,0,-2,1,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",I,- Greatsword: Terra x30 (Common Smithy)
+GSword,power,Claymore,"Claymore
+クレイモア",17,24,1,0,-2,0,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",II,"- Faussar: Ignis x90 (Common Smithy)
+- Terra Faussar: Unda x90 (Common Smithy)"
+GSword,power,Natura Claymore,"Natura Claymore
+クレイモア・木行",17,24,1,1,-3,0,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",II,- Faussar: Natura x90 (Common Smithy)
+GSword,power,Grand Claymore,"Grand Claymore
+クレイモア・克",19,26,1,0,-1,0,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",III,- Terra Faussar: Aes x115 (Common Smithy)
+GSword,standard,Fine Faussar,"Fine Faussar
+フォセ・改",16,29,0,0,-1,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",II,"- Faussar: Natura x18, Ignis x18, Terra x18, Aes x18, Unda x18 (Common Smithy)
+- Terra Faussar: Unda x30, Ash x10, Ore Fragment x10 (Common Smithy)"
+GSword,standard,Steel Greatsword,"Steel Greatsword
+鋼鉄の大剣",22,33,0,0,-1,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",IV,"- Claymore: Natura x145 (Common Smithy)
+- Grand Claymore: Natura x115 (Common Smithy)
+- Fine Faussar: Ignis x145 (Common Smithy)"
+GSword,standard,Unda Steel Greatsword,"Unda Steel Greatsword
+鋼鉄の大剣・水行",22,33,0,0,-2,0,1,1,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",IV,"- Claymore: Unda x145 (Common Smithy)
+- Grand Claymore: Unda x115 (Common Smithy)"
+GSword,standard,Grand Steel Greatsword,"Grand Steel Greatsword
+鋼鉄の大剣・克",25,35,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",V,- Natura Claymore: Terra x175 (Common Smithy)
+GSword,standard,Ignis Steel Greatsword,"Ignis Steel Greatsword
+鋼鉄の大剣・火行",22,33,1,0,-2,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",IV,- Natura Claymore: Ignis x145 (Common Smithy)
+GSword,standard,Natura Steel Greatsword,"Natura Steel Greatsword
+鋼鉄の大剣・木行",22,33,0,1,-2,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",IV,- Fine Faussar: Natura x145 (Common Smithy)
+GSword,standard,Zweihander,"Zweihander
+ツヴァイハンダー",30,37,0,0,-1,1,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",VI,"- Steel Greatsword: Unda x205 (Common Smithy)
+- Unda Steel Greatsword: Ignis x205 (Common Smithy)
+- Grand Steel Greatsword: Unda x175 (Common Smithy)
+- Ignis Steel Greatsword: Aes x205 (Common Smithy)
+- Natura Steel Greatsword: Terra x205 (Common Smithy)"
+GSword,standard,Grand Zweihander,"Grand Zweihander
+ツヴァイハンダー・克",33,39,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect, Waning Moon",VII,- Natura Steel Greatsword: Ignis x235 (Common Smithy)
+GSword,standard,Refined Zweihander,"Refined Zweihander
+ツヴァイハンダー・裏",32,37,0,1,-1,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect",VI,"- Steel Greatsword: Leather x10, Terra x170 (Rare Smithy)
+- Unda Steel Greatsword: Leather x10, Terra x170 (Terra Smithy)
+- Grand Steel Greatsword: Leather x10, Terra x145 (Rare Smithy)
+- Ignis Steel Greatsword: Leather x10, Terra x170 (Terra Smithy)
+- Natura Steel Greatsword: Natura x45, Ignis x45, Terra x45, Aes x45, Unda x45 (Common Smithy)"
+GSword,power,Cross Claymore,"Cross Claymore
+クロスクレイモア",37,35,1,0,-2,0,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",VIII,"- Claymore: Natura x55, Ignis x55, Terra x55, Aes x55, Unda x55 (Common Smithy)
+- Natura Claymore: Aes x65, Ancient Jewel x10, Obsidian x15, Ore Fragment x25 (Common Smithy)
+- Grand Claymore: Natura x55, Ignis x55, Terra x55, Aes x55, Unda x55 (Common Smithy)
+- Fine Faussar: Aes x65, Ancient Jewel x10, Obsidian x15, Ore Fragment x25 (Common Smithy)
+- Zweihander: Aes x260 (Common Smithy)
+- Grand Zweihander: Aes x235 (Common Smithy)
+- Refined Zweihander: Unda x260 (Common Smithy)"
+GSword,power,Grand Cross Claymore,"Grand Cross Claymore
+クロスクレイモア・克",40,38,1,0,-1,0,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",IX,- Refined Zweihander: Aes x290 (Common Smithy)
+GSword,standard,Fine Zweihander,"Fine Zweihander
+ツヴァイハンダー・改",37,40,0,0,-1,1,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect, Waning Moon",VIII,"- Zweihander: Wax x20, Ignis x155 (Rare Smithy)
+- Grand Zweihander: Wax x20, Ignis x135 (Rare Smithy)
+- Refined Zweihander: Ignis x130, Ash x45 (Common Smithy)"
+GSword,standard,Templar's Blade,"Templar's Blade
+聖騎士の剣",42,44,0,0,-1,0,0,1,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect, Waning Moon",X,"- Cross Claymore: Natura x320 (Common Smithy)
+- Grand Cross Claymore: Natura x290 (Common Smithy)
+- Fine Zweihander: Aes x320 (Common Smithy)"
+GSword,standard,Grand Templar's Blade,"Grand Templar's Blade
+聖騎士の剣・克",45,47,0,0,0,0,0,1,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect, Waning Moon",XI,"- Cross Claymore: Unda x350 (Common Smithy)
+- Grand Cross Claymore: Unda x350 (Common Smithy)"
+GSword,standard,Terra Templar's Blade,"Terra Templar's Blade
+聖騎士の剣・土行",42,44,0,0,-2,1,0,1,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect, Waning Moon",X,- Fine Zweihander: Terra x320 (Common Smithy)
+GSword,power,Calibour,"Calibour
+カリブール",43,54,0,0,-1,0,1,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",X,"- Cross Claymore: Holy Water x30, Whetstone x20 (Aes Smithy)
+- Grand Cross Claymore: Holy Water x25, Whetstone x15 (Aes Smithy)
+- Imperator: Holy Water x30, Whetstone x20 (Aes Smithy)
+- Unda Imperator: Holy Water x30, Whetstone x20 (Aes Smithy)"
+GSword,standard,Dragonscale Blade,"Dragonscale Blade
+竜鱗の剣",48,48,1,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Deflect, Waning Moon",XII,"- Templar's Blade: Dragon Scale x20, Whetstone x20 (Natura Smithy)
+- Grand Templar's Blade: Dragon Scale x20, Whetstone x20 (Natura Smithy)
+- Terra Templar's Blade: Dragon Scale x20, Whetstone x20 (Natura Smithy)
+- Calibour: Dragon Scale x20, Whetstone x20 (Natura Smithy)"
+GSword,power,Ettin's Blade,"Ettin's Blade
+巨人の剣",16,29,0,0,-2,1,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",I,
+GSword,power,Master's Blade,"Master's Blade
+マスターブレード",22,33,0,1,-2,1,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",IV,- Ettin's Blade: Unda x145 (Common Smithy)
+GSword,power,Grand Master's Blade,"Grand Master's Blade
+マスターブレード・克",25,35,0,1,-1,1,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",V,- Ettin's Blade: Aes x175 (Common Smithy)
+GSword,power,Imperator,"Imperator
+英雄の大剣",30,37,1,0,-2,1,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",VI,"- Master's Blade: Natura x205 (Common Smithy)
+- Grand Master's Blade: Natura x175 (Common Smithy)"
+GSword,power,Unda Imperator,"Unda Imperator
+英雄の大剣・水行",30,37,1,0,-3,1,1,1,"Smash, Downswing, Gravedigger, Deflect, Vandalize",VI,"- Master's Blade: Unda x205 (Common Smithy)
+- Grand Master's Blade: Unda x175 (Common Smithy)"
+GSword,power,Tataraichi,"Tataraichi
+タタラ一番",37,40,0,0,-2,1,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",VIII,- Imperator: Aes x260 (Common Smithy)
+GSword,power,Terra Tataraichi,"Terra Tataraichi
+タタラ一番・土行",37,40,0,0,-3,2,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",VIII,- Imperator: Terra x260 (Common Smithy)
+GSword,power,Grand Tataraichi,"Grand Tataraichi
+タタラ一番・克",40,43,0,0,-1,1,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",IX,- Unda Imperator: Ignis x290 (Common Smithy)
+GSword,power,Natura Tataraichi,"Natura Tataraichi
+タタラ一番・木行",37,40,0,1,-3,1,0,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",VIII,- Unda Imperator: Natura x260 (Common Smithy)
+GSword,power,Ice Sword,"Ice Sword
+アイスソード",24,19,0,0,-2,0,-1,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize",I,
+GSword,power,Glacial Ice Sword,"Glacial Ice Sword
+霧氷剣・アイスソード",46,38,0,0,-2,0,-1,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",XII,"- Tataraichi: Icelight x40 (Unda Smithy)
+- Terra Tataraichi: Icelight x40 (Unda Smithy)
+- Grand Tataraichi: Icelight x40 (Unda Smithy)
+- Natura Tataraichi: Icelight x40 (Unda Smithy)
+- Ice Sword: Icelight x40 (Unda Smithy)"
+GSword,power,Frigid Ice Sword,"Frigid Ice Sword
+冷凍剣・アイスソード",59,46,0,0,-2,0,-1,0,"Smash, Downswing, Gravedigger, Deflect, Vandalize, Waning Moon",XIV,- Glacial Ice Sword: Icelight x45 (Unda Smithy)
+GSword,katana,Samurai Sword,"Samurai Sword
+サムライソード",12,26,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",I,
+GSword,katana,Odachi,"Odachi
+大太刀",22,33,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",IV,- Samurai Sword: Terra x145 (Common Smithy)
+GSword,katana,Ignis Odachi,"Ignis Odachi
+大太刀・火行",22,33,1,0,-1,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",IV,- Samurai Sword: Ignis x145 (Common Smithy)
+GSword,katana,Gekkabijin,"Gekkabijin
+月下美人",50,48,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",XII,"- Odachi: Natura x80, Whetstone x10, Ash x30, Ore Fragment x30, Fibrous Matter x30 (Natura Smithy)
+- Ignis Odachi: Natura x80, Whetstone x10, Ash x30, Ore Fragment x30, Fibrous Matter x30 (Natura Smithy)"
+GSword,katana,Ancient Natura Seure,"Ancient Natura Seure
+木星刀・古",29,37,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",I,
+GSword,katana,Natura Seure,"Natura Seure
+木星刀",41,44,0,1,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",X,"- Ancient Natura Seure: Latex x45, Natura x65 (Rare Smithy)"
+GSword,katana,Elegant Natura Seure,"Elegant Natura Seure
+木星刀・真",59,56,0,1,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",XIV,"- Natura Seure: Screamroot x35, Natura x135 (Rare Smithy)"
+GSword,katana,Ancient Ignis Seure,"Ancient Ignis Seure
+火星刀・古",29,37,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",I,
+GSword,katana,Ignis Seure,"Ignis Seure
+火星刀",41,44,1,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",X,"- Ancient Ignis Seure: Wax x45, Ignis x65 (Rare Smithy)"
+GSword,katana,Elegant Ignis Seure,"Elegant Ignis Seure
+火星刀・真",59,56,1,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",XIV,"- Ignis Seure: Luminescent Oil x35, Ignis x135 (Rare Smithy)"
+GSword,katana,Ancient Terra Seure,"Ancient Terra Seure
+土星刀・古",29,37,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",I,
+GSword,katana,Terra Seure,"Terra Seure
+土星刀",41,44,0,0,0,1,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",X,"- Ancient Terra Seure: Leather x45, Terra x65 (Rare Smithy)"
+GSword,katana,Elegant Terra Seure,"Elegant Terra Seure
+土星刀・真",59,56,0,0,0,1,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",XIV,"- Terra Seure: Whetstone x35, Terra x135 (Rare Smithy)"
+GSword,katana,Ancient Aes Seure,"Ancient Aes Seure
+金星刀・古",29,37,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",I,
+GSword,katana,Aes Seure,"Aes Seure
+金星刀",41,54,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",X,"- Ancient Aes Seure: Obsidian x45, Aes x65 (Rare Smithy)"
+GSword,katana,Elegant Aes Seure,"Elegant Aes Seure
+金星刀・真",59,66,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",XIV,"- Aes Seure: Ancient Jewel x35, Aes x135 (Rare Smithy)"
+GSword,katana,Ancient Unda Seure,"Ancient Unda Seure
+水星刀・古",29,37,0,0,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal",I,
+GSword,katana,Unda Seure,"Unda Seure
+水星刀",41,44,0,0,0,0,1,1,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",X,"- Ancient Unda Seure: Beast Hide x45, Unda x65 (Rare Smithy)"
+GSword,katana,Elegant Unda Seure,"Elegant Unda Seure
+水星刀・真",59,56,0,0,0,0,1,1,"Smash, Flowing Slash, Optical Slash, Wheel Swing, Shadow Reversal, Scattered Petals",XIV,"- Unda Seure: Icelight x35, Unda x135 (Rare Smithy)"
+GSword,true katana,Katana,"Katana
+カタナ",24,34,0,0,0,0,0,2,"Smash, Flowing Slash, Blizzard, Lunar Blade, Eclipse, Scattered Petals",I,
+GSword,technical,Bovine Slayer,"Bovine Slayer
+牛斬りの刃",37,40,0,1,0,0,0,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Headwind Rush, Waning Moon",I,
+GSword,technical,Kirin Slayer,"Kirin Slayer
+麒麟斬り",61,56,0,1,0,1,1,0,"Smash, Flowing Slash, Optical Slash, Gravedigger, Headwind Rush, Waning Moon",XIV,"- Bovine Slayer: Whetstone x35, Terra x135 (Rare Smithy)"
+Spear,standard,Long Spear,"Long Spear
+ロングスピア",11,20,0,0,1,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",I,
+Spear,standard,Chauve-Souris,"Chauve-Souris
+ショヴスリ",12,21,0,1,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",I,- Long Spear: Terra x30 (Common Smithy)
+Spear,technical,Halberd,"Halberd
+矛",15,24,0,0,1,0,0,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill",II,"- Chauve-Souris: Ignis x90 (Common Smithy)
+- Warrior's Spear: Natura x45, Bone Shard x15 (Common Smithy)"
+Spear,technical,Grand Halberd,"Grand Halberd
+矛・克",17,26,0,0,2,0,0,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill",III,- Chauve-Souris: Natura x115 (Common Smithy)
+Spear,standard,Hardened Spear,"Hardened Spear
+ハーデンドスピア",21,28,0,0,1,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",IV,"- Halberd: Terra x145 (Common Smithy)
+- Grand Halberd: Terra x115 (Common Smithy)
+- Pike: Ignis x75, Ore Fragment x25 (Common Smithy)
+- Grand Pike: Ignis x60, Ore Fragment x20 (Common Smithy)
+- Terra Pike: Ignis x75, Ore Fragment x25 (Common Smithy)"
+Spear,standard,Grand Hardened Spear,"Grand Hardened Spear
+ハーデンドスピア・克",24,30,0,0,2,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",V,"- Halberd: Ignis x175 (Common Smithy)
+- Grand Halberd: Ignis x175 (Common Smithy)"
+Spear,technical,Glaive,"Glaive
+グレイブ",29,32,0,0,1,0,0,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill",VI,"- Hardened Spear: Aes x205 (Common Smithy)
+- Grand Hardened Spear: Aes x175 (Common Smithy)
+- Pitchfork: Whetstone x10, Ore Fragment x25, Terra x70 (Common Smithy)
+- Grand Pitchfork: Whetstone x10, Ore Fragment x20, Terra x60 (Common Smithy)
+- Aes Pitchfork: Whetstone x10, Ore Fragment x25, Terra x70 (Common Smithy)"
+Spear,technical,Grand Glaive,"Grand Glaive
+グレイブ・克",31,34,0,0,2,0,0,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill, Triumvirate",VII,"- Hardened Spear: Terra x235 (Common Smithy)
+- Grand Hardened Spear: Terra x235 (Common Smithy)"
+Spear,technical,Beastman Spear,"Beastman Spear
+獣人の槍",34,35,1,0,1,0,-1,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill, Triumvirate",VIII,"- Glaive: Unda x260 (Common Smithy)
+- Grand Glaive: Unda x235 (Common Smithy)
+- Amentum: Ignis x65, Fiend Blood x25, Bone Shard x25, Scale x25 (Common Smithy)
+- Grand Amentum: Ignis x60, Fiend Blood x20, Bone Shard x20, Scale x20 (Common Smithy)"
+Spear,technical,Aes Beastman Spear,"Aes Beastman Spear
+獣人の槍・金行",35,35,1,0,0,0,-1,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill, Triumvirate",VIII,"- Glaive: Aes x260 (Common Smithy)
+- Grand Glaive: Aes x235 (Common Smithy)"
+Spear,standard,Obsidian Spear,"Obsidian Spear
+黒曜石の槍",39,39,0,0,1,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,- Aes Beastman Spear: Natura x320 (Common Smithy)
+Spear,standard,Grand Obsidian Spear,"Grand Obsidian Spear
+黒曜石の槍・克",43,42,0,0,2,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",XI,- Beastman Spear: Aes x350 (Common Smithy)
+Spear,standard,Terra Obsidian Spear,"Terra Obsidian Spear
+黒曜石の槍・土行",39,39,0,0,0,1,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,- Beastman Spear: Terra x320 (Common Smithy)
+Spear,standard,Unda Obsidian Spear,"Unda Obsidian Spear
+黒曜石の槍・水行",39,39,0,0,0,0,1,1,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,- Aes Beastman Spear: Unda x320 (Common Smithy)
+Spear,technical,Voulge,"Voulge
+ヴォウジェ",46,43,0,0,1,-1,0,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill, Triumvirate",XII,"- Obsidian Spear: Whetstone x15, Terra x265 (Terra Smithy)
+- Grand Obsidian Spear: Whetstone x15, Terra x245 (Terra Smithy)
+- Terra Obsidian Spear: Whetstone x15, Terra x265 (Rare Smithy)
+- Unda Obsidian Spear: Whetstone x15, Terra x265 (Terra Smithy)"
+Spear,thrusting,Warrior's Spear,"Warrior's Spear
+戦士の槍",13,26,0,0,-1,0,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",I,- Long Spear: Ignis x30 (Common Smithy)
+Spear,thrusting,Pike,"Pike
+パイク",16,29,0,0,-2,1,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",II,- Chauve-Souris: Ore Fragment x30 (Common Smithy)
+Spear,thrusting,Grand Pike,"Grand Pike
+パイク・克",18,31,0,0,-1,1,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",III,- Warrior's Spear: Aes x115 (Common Smithy)
+Spear,thrusting,Terra Pike,"Terra Pike
+パイク・土行",16,29,0,0,-3,2,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",II,- Warrior's Spear: Terra x90 (Common Smithy)
+Spear,thrusting,Pitchfork,"Pitchfork
+フォーク",22,33,0,0,-1,0,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",IV,"- Halberd: Unda x75, Ore Fragment x25 (Common Smithy)
+- Grand Halberd: Unda x60, Ore Fragment x20 (Common Smithy)
+- Pike: Natura x145 (Common Smithy)
+- Grand Pike: Natura x115 (Common Smithy)"
+Spear,thrusting,Grand Pitchfork,"Grand Pitchfork
+フォーク・克",25,35,0,0,0,0,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",V,"- Pike: Unda x175 (Common Smithy)
+- Grand Pike: Unda x175 (Common Smithy)
+- Terra Pike: Unda x175 (Common Smithy)"
+Spear,thrusting,Aes Pitchfork,"Aes Pitchfork
+フォーク・金行",23,33,0,0,-2,0,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",IV,- Terra Pike: Aes x145 (Common Smithy)
+Spear,thrusting,Amentum,"Amentum
+アーメントゥーム",30,37,0,0,0,0,-1,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge",VI,"- Hardened Spear: Fibrous Matter x70 (Common Smithy)
+- Grand Hardened Spear: Fibrous Matter x60 (Common Smithy)
+- Pitchfork: Ignis x205 (Common Smithy)
+- Grand Pitchfork: Ignis x175 (Common Smithy)
+- Aes Pitchfork: Latex x10, Natura x170 (Natura Smithy)"
+Spear,thrusting,Grand Amentum,"Grand Amentum
+アーメントゥーム・克",32,39,0,0,1,0,-1,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge, Arm of Light",VII,"- Pitchfork: Natura x235 (Common Smithy)
+- Grand Pitchfork: Natura x235 (Common Smithy)
+- Aes Pitchfork: Natura x235 (Common Smithy)"
+Spear,thrusting,Winged Lance,"Winged Lance
+ウイングドランス",35,40,0,0,-2,0,0,1,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge, Arm of Light",VIII,"- Amentum: Terra x260 (Common Smithy)
+- Grand Amentum: Terra x235 (Common Smithy)"
+Spear,thrusting,Spontoon,"Spontoon
+スポントゥーン",40,44,0,1,0,-1,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge, Arm of Light",X,"- Beastman Spear: Whetstone x20, Ancient Jewel x20 (Terra Smithy)
+- Aes Beastman Spear: Whetstone x35 (Terra Smithy)
+- Winged Lance: Natura x320 (Common Smithy)"
+Spear,thrusting,Unda Spontoon,"Unda Spontoon
+スポントゥーン・水行",40,44,0,1,-1,-1,1,1,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge, Arm of Light",X,- Winged Lance: Unda x320 (Common Smithy)
+Spear,thrusting,Astral Spear,"Astral Spear
+星辰の槍",45,48,0,0,0,0,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge, Arm of Light",XII,"- Spontoon: Icelight x15, Unda x265 (Unda Smithy)
+- Unda Spontoon: Icelight x15, Unda x265 (Rare Smithy)"
+Spear,technical,Dragonblood Spear,"Dragonblood Spear
+傷んだ竜槍",32,40,0,0,0,0,0,0,"Pierce, Sweep, Reaper, Arm of Light, Windmill, Triumvirate",I,
+Spear,technical,Gae Bolg,"Gae Bolg
+ゲイボルグ",45,48,0,0,1,1,0,1,"Pierce, Sweep, Reaper, Arm of Light, Windmill, Triumvirate",XII,"- Dragonblood Spear: Dragon Scale x20, Prisma x190 (Ignis Smithy)"
+Spear,technical,Elegant Gae Bolg,"Elegant Gae Bolg
+竜槍ゲイボルグ",58,56,0,0,1,1,0,1,"Pierce, Sweep, Reaper, Arm of Light, Windmill, Triumvirate",XIV,"- Gae Bolg: Dragon Scale x25, Prisma x220 (Ignis Smithy)"
+Spear,standard,Ancient Redwood Spear,"Ancient Redwood Spear
+大樹の古槍",28,37,0,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",I,
+Spear,standard,Redwood Spear,"Redwood Spear
+大樹の槍",38,44,0,1,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,"- Ancient Redwood Spear: Latex x45, Natura x65 (Rare Smithy)"
+Spear,standard,Redwood Aram,"Redwood Aram
+大樹の神槍",56,56,0,1,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",XIV,"- Redwood Spear: Screamroot x35, Natura x135 (Rare Smithy)"
+Spear,standard,Ancient Volcano Spear,"Ancient Volcano Spear
+火山の古槍",28,37,0,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",I,
+Spear,standard,Volcano Spear,"Volcano Spear
+火山の槍",38,44,1,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,"- Ancient Volcano Spear: Wax x45, Ignis x65 (Rare Smithy)"
+Spear,standard,Volcano Aram,"Volcano Aram
+火山の神槍",56,56,1,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",XIV,"- Volcano Spear: Luminescent Oil x35, Ignis x135 (Rare Smithy)"
+Spear,standard,Ancient Firma Spear,"Ancient Firma Spear
+大地の古槍",28,37,0,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",I,
+Spear,standard,Firma Spear,"Firma Spear
+大地の槍",38,44,0,0,0,1,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,"- Ancient Firma Spear: Leather x45, Terra x65 (Rare Smithy)"
+Spear,standard,Firma Aram,"Firma Aram
+大地の神槍",56,56,0,0,0,1,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",XIV,"- Firma Spear: Whetstone x35, Terra x135 (Rare Smithy)"
+Spear,standard,Ancient Platinum Spear,"Ancient Platinum Spear
+白金の古槍",28,37,0,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",I,
+Spear,standard,Platinum Spear,"Platinum Spear
+白金の槍",38,54,0,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,"- Ancient Platinum Spear: Obsidian x45, Aes x65 (Rare Smithy)"
+Spear,standard,Platinum Aram,"Platinum Aram
+白金の神槍",56,66,0,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",XIV,"- Platinum Spear: Ancient Jewel x35, Aes x135 (Rare Smithy)"
+Spear,standard,Ancient Seiche Spear,"Ancient Seiche Spear
+大海の古槍",28,37,0,0,0,0,0,0,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge",I,
+Spear,standard,Seiche Spear,"Seiche Spear
+大海の槍",38,44,0,0,0,0,1,1,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",X,"- Ancient Seiche Spear: Beast Hide x45, Unda x65 (Rare Smithy)"
+Spear,standard,Seiche Aram,"Seiche Aram
+大海の神槍",56,56,0,0,0,0,1,1,"Pierce, Split Cranium, Sweep, Mizuchi, Shelter, Spiral Charge, Triumvirate",XIV,"- Seiche Spear: Icelight x35, Unda x135 (Rare Smithy)"
+Spear,thrusting,Twinspikes,"Twinspikes
+ツインスパイク",42,44,0,0,0,0,0,0,"Pierce, Split Cranium, Aim, Mizuchi, Shelter, Spiral Charge, Arm of Light",I,
+Spear,special,Supra Harpoon,"Supra Harpoon
+スープラハープーン",36,40,0,0,0,0,0,0,"Pierce, Split Cranium, Divine Lancer, Mizuchi, Shelter, Spiral Charge, Arm of Light",I,
+Spear,special,Lucis Harpoon,"Lucis Harpoon
+ルーキスハープーン",61,56,0,0,0,0,0,0,"Pierce, Split Cranium, Divine Lancer, Mizuchi, Shelter, Spiral Charge, Arm of Light",XIV,"- Supra Harpoon: Icelight x35, Unda x135 (Rare Smithy)"
+Rapier,special,Fleuret,"Fleuret
+フルーレ",9,14,0,0,1,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve",I,
+Rapier,standard,Rapier,"Rapier
+レイピア",10,15,0,0,1,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",I,- Fleuret: Terra x30 (Common Smithy)
+Rapier,standard,Ignis Rapier,"Ignis Rapier
+レイピア・火行",10,15,1,0,0,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",I,- Fleuret: Ignis x30 (Common Smithy)
+Rapier,special,Dress Sword,"Dress Sword
+ドレスソード",13,17,0,0,1,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve",II,"- Rapier: Natura x80 (Common Smithy)
+- Ignis Rapier: Aes x80 (Common Smithy)"
+Rapier,special,Grand Dress Sword,"Grand Dress Sword
+ドレスソード・克",15,18,0,0,2,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve",III,- Rapier: Unda x105 (Common Smithy)
+Rapier,special,Terra Dress Sword,"Terra Dress Sword
+ドレスソード・土行",13,17,0,0,0,0,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve",II,- Ignis Rapier: Terra x80 (Common Smithy)
+Rapier,technical,Estoc,"Estoc
+エストック",15,12,0,0,-1,0,0,0,"Quick Thrust, Lightspeed, Shocking Rush, Crystalline Carve, Piercing Lightning",II,"- Rapier: Ignis x40, Ore Fragment x15 (Common Smithy)
+- Ignis Rapier: Natura x16, Ignis x16, Terra x16, Aes x16, Unda x16 (Common Smithy)"
+Rapier,special,Silver Fleuret,"Silver Fleuret
+シルバーフルーレ",18,20,0,0,1,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve",IV,"- Dress Sword: Ignis x130 (Common Smithy)
+- Grand Dress Sword: Ignis x105 (Common Smithy)
+- Terra Dress Sword: Scale x20, Unda x80 (Unda Smithy)
+- Estoc: Unda x65, Ore Fragment x25 (Common Smithy)"
+Rapier,special,Grand Silver Fleuret,"Grand Silver Fleuret
+シルバーフルーレ・克",21,21,0,0,2,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve",V,- Terra Dress Sword: Unda x155 (Common Smithy)
+Rapier,standard,Xiphos,"Xiphos
+鋼鉄の突剣",19,15,0,0,1,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",IV,"- Dress Sword: Terra x65, Bone Shard x25 (Common Smithy)
+- Grand Dress Sword: Terra x55, Bone Shard x20 (Common Smithy)
+- Terra Dress Sword: Natura x30, Ignis x30, Terra x30, Aes x30, Unda x30 (Common Smithy)
+- Estoc: Aes x55 (Common Smithy)"
+Rapier,standard,Grand Xiphos,"Grand Xiphos
+鋼鉄の突剣・克",21,16,0,0,2,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",V,- Estoc: Terra x155 (Common Smithy)
+Rapier,standard,Ghoststeel Rapier,"Ghoststeel Rapier
+霊銀のレイピア",25,22,0,0,1,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",VI,"- Silver Fleuret: Ignis x180 (Common Smithy)
+- Grand Silver Fleuret: Ignis x155 (Common Smithy)
+- Xiphos: Unda x180 (Common Smithy)
+- Grand Xiphos: Unda x155 (Common Smithy)"
+Rapier,standard,Grand Ghoststeel Rapier,"Grand Ghoststeel Rapier
+霊銀のレイピア・克",28,23,0,0,2,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",VII,"- Silver Fleuret: Natura x205 (Common Smithy)
+- Grand Silver Fleuret: Natura x205 (Common Smithy)"
+Rapier,standard,Aes Ghoststeel Rapier,"Aes Ghoststeel Rapier
+霊銀のレイピア・金行",27,22,0,0,0,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",VI,"- Xiphos: Aes x180 (Common Smithy)
+- Grand Xiphos: Aes x155 (Common Smithy)"
+Rapier,standard,Fine Xiphos,"Fine Xiphos
+鋼鉄の突剣・改",27,17,0,0,1,-1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",VI,"- Silver Fleuret: Terra x90, Bone Shard x30 (Common Smithy)
+- Grand Silver Fleuret: Terra x80, Bone Shard x30 (Common Smithy)
+- Xiphos: Natura x40, Ignis x40, Terra x40, Aes x40, Unda x40 (Common Smithy)
+- Grand Xiphos: Natura x35, Ignis x35, Terra x35, Aes x35, Unda x35 (Common Smithy)"
+Rapier,special,Dueling Blade,"Dueling Blade
+デュエルソード",30,24,0,0,1,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve, Golden Note",VIII,"- Ghoststeel Rapier: Terra x230 (Common Smithy)
+- Grand Ghoststeel Rapier: Terra x205 (Common Smithy)
+- Aes Ghoststeel Rapier: Natura x230 (Common Smithy)"
+Rapier,special,Ignis Dueling Blade,"Ignis Dueling Blade
+デュエルソード・火行",30,24,1,0,0,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve, Golden Note",VIII,"- Ghoststeel Rapier: Ignis x230 (Common Smithy)
+- Grand Ghoststeel Rapier: Ignis x205 (Common Smithy)"
+Rapier,special,Unda Dueling Blade,"Unda Dueling Blade
+デュエルソード・水行",30,24,0,0,0,-1,1,1,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve, Golden Note",VIII,- Aes Ghoststeel Rapier: Unda x230 (Common Smithy)
+Rapier,technical,Koncerz,"Koncerz
+コンツェシュ",31,19,0,0,0,0,0,0,"Quick Thrust, Lightspeed, Shocking Rush, Crystalline Carve, Piercing Lightning, Southern Cross",VIII,- Fine Xiphos: Unda x230 (Common Smithy)
+Rapier,technical,Aes Koncerz,"Aes Koncerz
+コンツェシュ・金行",33,19,0,0,-1,0,0,0,"Quick Thrust, Lightspeed, Shocking Rush, Crystalline Carve, Piercing Lightning, Southern Cross",VIII,- Fine Xiphos: Aes x230 (Common Smithy)
+Rapier,special,Saber,"Saber
+エペ",34,27,0,1,0,0,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve, Golden Note",X,"- Dueling Blade: Natura x285 (Common Smithy)
+- Unda Dueling Blade: Natura x285 (Common Smithy)
+- Aes Koncerz: Natura x285 (Common Smithy)"
+Rapier,standard,Runic Rapier,"Runic Rapier
+ルーンレイピア",34,27,0,0,0,0,2,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",X,"- Ignis Dueling Blade: Wax x40, Ignis x60 (Rare Smithy)
+- Unda Dueling Blade: Ignis x285 (Common Smithy)
+- Koncerz: Ignis x285 (Common Smithy)"
+Rapier,special,Astral Palatial Dagger,"Astral Palatial Dagger
+星辰の礼剣",35,27,0,0,1,-1,0,0,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve, Golden Note",X,"- Dueling Blade: Unda x285 (Common Smithy)
+- Aes Koncerz: Unda x285 (Common Smithy)"
+Rapier,technical,Colichemarde,"Colichemarde
+コリシュマルド",36,22,0,0,-1,0,0,0,"Quick Thrust, Lightspeed, Shocking Rush, Crystalline Carve, Piercing Lightning, Southern Cross",X,"- Ignis Dueling Blade: Aes x285 (Common Smithy)
+- Koncerz: Obsidian x40, Aes x60 (Aes Smithy)"
+Rapier,special,Star of the Down,"Star of the Down
+徒花の星",39,24,0,0,2,0,0,2,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve, Golden Note",XII,"- Saber: Luminescent Oil x10, Ignis x235 (Ignis Smithy)
+- Astral Palatial Dagger: Luminescent Oil x10, Ignis x235 (Ignis Smithy)"
+Rapier,technical,Espada Ropera,"Espada Ropera
+エスパーダ・ロペラ",41,29,0,0,0,0,0,0,"Quick Thrust, Lightspeed, Shocking Rush, Crystalline Carve, Piercing Lightning, Southern Cross",XII,"- Runic Rapier: Whetstone x10, Terra x235 (Terra Smithy)
+- Colichemarde: Whetstone x10, Terra x235 (Terra Smithy)"
+Rapier,standard,Ancient Verdant Blade,"Ancient Verdant Blade
+翠の古剣",24,22,0,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",I,
+Rapier,standard,Verdant Palatial Dagger,"Verdant Palatial Dagger
+翠の礼剣",34,27,0,1,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",X,"- Ancient Verdant Blade: Latex x40, Natura x60 (Rare Smithy)"
+Rapier,standard,Verdant Spiritslicer,"Verdant Spiritslicer
+翠の霊剣",49,34,0,1,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",XIV,"- Verdant Palatial Dagger: Screamroot x30, Natura x115 (Rare Smithy)"
+Rapier,standard,Ancient Crimson Blade,"Ancient Crimson Blade
+紅の古剣",24,22,0,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",I,
+Rapier,standard,Crimson Palatial Dagger,"Crimson Palatial Dagger
+紅の礼剣",34,27,1,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",X,"- Ancient Crimson Blade: Wax x40, Ignis x60 (Rare Smithy)"
+Rapier,standard,Crimson Spiritslicer,"Crimson Spiritslicer
+紅の霊剣",49,34,1,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",XIV,"- Crimson Palatial Dagger: Luminescent Oil x30, Ignis x115 (Rare Smithy)"
+Rapier,standard,Ancient Umber Blade,"Ancient Umber Blade
+土の古剣",24,22,0,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",I,
+Rapier,standard,Umber Palatial Dagger,"Umber Palatial Dagger
+土の礼剣",34,27,0,0,0,1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",X,"- Ancient Umber Blade: Leather x40, Terra x60 (Rare Smithy)"
+Rapier,standard,Umber Spiritslicer,"Umber Spiritslicer
+土の霊剣",49,34,0,0,0,1,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",XIV,"- Umber Palatial Dagger: Whetstone x30, Terra x115 (Rare Smithy)"
+Rapier,standard,Ancient Silver Blade,"Ancient Silver Blade
+銀の古剣",24,22,0,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",I,
+Rapier,standard,Silver Palatial Dagger,"Silver Palatial Dagger
+銀の礼剣",34,37,0,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",X,"- Ancient Silver Blade: Obsidian x40, Aes x60 (Rare Smithy)"
+Rapier,standard,Silver Spiritslicer,"Silver Spiritslicer
+銀の霊剣",49,44,0,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",XIV,"- Silver Palatial Dagger: Ancient Jewel x30, Aes x115 (Rare Smithy)"
+Rapier,standard,Ancient Azure Blade,"Ancient Azure Blade
+青の古剣",24,22,0,0,0,0,0,0,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning",I,
+Rapier,standard,Azure Palatial Dagger,"Azure Palatial Dagger
+青の礼剣",34,27,0,0,0,0,1,1,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",X,"- Ancient Azure Blade: Beast Hide x40, Unda x60 (Rare Smithy)"
+Rapier,standard,Azure Spiritslicer,"Azure Spiritslicer
+青の霊剣",49,34,0,0,0,0,1,1,"Quick Thrust, Apid Venom, Mesmerize, Lightspeed, Piercing Lightning, Southern Cross",XIV,"- Azure Palatial Dagger: Icelight x30, Unda x115 (Rare Smithy)"
+Rapier,special,Vermillion Rose,"Vermillion Rose
+赤薔薇の星",36,22,0,0,2,0,0,2,"Quick Thrust, Mesmerize, Matador, Apid Venom, Crystalline Carve, Golden Note",I,
+Rapier,dramatic,Joyeuse,"Joyeuse
+ジュワユース",32,24,0,0,0,0,3,0,"Quick Thrust, Lightspeed, Eulogy, Crystalline Carve, Piercing Lightning, Southern Cross",I,
+Rapier,dramatic,Solar Joyeuse,"Solar Joyeuse
+陽剣ジュワユース",56,34,0,0,0,0,3,0,"Quick Thrust, Lightspeed, Eulogy, Crystalline Carve, Piercing Lightning, Southern Cross",XIV,"- Joyeuse: Luminescent Oil x30, Ignis x115 (Rare Smithy)"
+Axe,standard,Gothic Axe,"Gothic Axe
+戦斧",12,25,0,0,-2,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,
+Axe,standard,Tabar,"Tabar
+タバール",13,26,0,0,-2,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,- Gothic Axe: Unda x30 (Common Smithy)
+Axe,standard,Grand Tabar,"Grand Tabar
+タバール・克",14,27,0,0,-1,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,- Gothic Axe: Aes x30 (Common Smithy)
+Axe,standard,Broad Axe,"Broad Axe
+ブロードアクス",16,29,0,0,-2,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",II,"- Tabar: Natura x90 (Common Smithy)
+- Grand Tabar: Natura x60 (Common Smithy)"
+Axe,standard,Unda Broad Axe,"Unda Broad Axe
+ブロードアクス・水行",16,29,0,0,-3,1,1,1,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",II,"- Tabar: Unda x90 (Common Smithy)
+- Grand Tabar: Unda x60 (Common Smithy)"
+Axe,power,Beheader,"Beheader
+ブリンガー",23,33,1,0,-2,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury",IV,- Broad Axe: Natura x145 (Common Smithy)
+Axe,power,Unda Beheader,"Unda Beheader
+ブリンガー・水行",23,33,1,0,-3,0,1,1,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury",IV,- Broad Axe: Unda x145 (Common Smithy)
+Axe,power,Grand Beheader,"Grand Beheader
+ブリンガー・克",26,35,1,0,-1,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury",V,- Unda Broad Axe: Ignis x175 (Common Smithy)
+Axe,power,Natura Beheader,"Natura Beheader
+ブリンガー・木行",23,33,1,1,-3,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury",IV,- Unda Broad Axe: Natura x145 (Common Smithy)
+Axe,standard,Fine Broad Axe,"Fine Broad Axe
+ブロードアクス・改",24,33,0,0,-2,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",IV,"- Broad Axe: Natura x30, Ignis x30, Terra x30, Aes x30, Unda x30 (Common Smithy)
+- Unda Broad Axe: Aes x75, Ore Fragment x25 (Common Smithy)"
+Axe,standard,War Tabar,"War Tabar
+バトルタバール",31,37,0,0,-2,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",VI,"- Beheader: Aes x205 (Common Smithy)
+- Unda Beheader: Ignis x205 (Common Smithy)
+- Grand Beheader: Aes x175 (Common Smithy)
+- Natura Beheader: Terra x205 (Common Smithy)
+- Fine Broad Axe: Leather x10, Terra x170 (Terra Smithy)"
+Axe,standard,Grand War Tabar,"Grand War Tabar
+バトルタバール・克",34,39,0,0,-1,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",VII,"- Beheader: Terra x235 (Common Smithy)
+- Grand Beheader: Terra x235 (Common Smithy)"
+Axe,standard,Natura War Tabar,"Natura War Tabar
+バトルタバール・木行",31,37,0,1,-3,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",VI,- Unda Beheader: Natura x205 (Common Smithy)
+Axe,standard,Ignis War Tabar,"Ignis War Tabar
+バトルタバール・火行",31,37,1,0,-3,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",VI,- Natura Beheader: Ignis x205 (Common Smithy)
+Axe,power,Fine Beheader,"Fine Beheader
+ブリンガー・改",33,37,1,0,-2,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury",VI,"- Beheader: Natura x45, Ignis x45, Terra x45, Aes x45, Unda x45 (Common Smithy)
+- Unda Beheader: Ignis x105, Ash x35 (Common Smithy)
+- Grand Beheader: Natura x35, Ignis x35, Terra x35, Aes x35, Unda x35 (Common Smithy)
+- Natura Beheader: Ignis x105, Ash x35 (Common Smithy)
+- Fine Broad Axe: Natura x40 (Common Smithy)"
+Axe,standard,Battle Axe,"Battle Axe
+ウォーアクス",37,40,0,0,-2,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",VIII,"- War Tabar: Unda x260 (Common Smithy)
+- Grand War Tabar: Unda x235 (Common Smithy)
+- Natura War Tabar: Terra x260 (Common Smithy)"
+Axe,standard,Grand Battle Axe,"Grand Battle Axe
+ウォーアクス・克",41,43,0,0,-1,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",IX,"- War Tabar: Aes x290 (Common Smithy)
+- Grand War Tabar: Aes x290 (Common Smithy)
+- Ignis War Tabar: Aes x290 (Common Smithy)
+- Fine Beheader: Aes x290 (Common Smithy)"
+Axe,standard,Ignis Battle Axe,"Ignis Battle Axe
+ウォーアクス・火行",37,40,1,0,-3,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",VIII,- Natura War Tabar: Ignis x260 (Common Smithy)
+Axe,standard,Terra Battle Axe,"Terra Battle Axe
+ウォーアクス・土行",37,40,0,0,-3,2,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",VIII,"- Ignis War Tabar: Terra x260 (Common Smithy)
+- Fine Beheader: Terra x260 (Common Smithy)"
+Axe,standard,Bardiche,"Bardiche
+バルディッシュ",44,44,1,0,-2,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",X,"- Battle Axe: Natura x320 (Common Smithy)
+- Grand Battle Axe: Natura x290 (Common Smithy)
+- Ignis Battle Axe: Aes x320 (Common Smithy)
+- Terra Battle Axe: Unda x320 (Common Smithy)"
+Axe,standard,Fine Battle Axe,"Fine Battle Axe
+ウォーアクス・改",46,44,0,0,-2,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",X,"- Battle Axe: Natura x65, Ignis x65, Terra x65, Aes x65, Unda x65 (Aes Smithy)
+- Grand Battle Axe: Natura x60, Ignis x60, Terra x60, Aes x60, Unda x60 (Aes Smithy)
+- Ignis Battle Axe: Aes x160, Wax x30 (Aes Smithy)
+- Terra Battle Axe: Aes x160, Wax x30 (Aes Smithy)"
+Axe,power,Cataclysm,"Cataclysm
+デストロイヤー",52,48,0,0,-2,0,0,2,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury, Morning Glory",XII,"- Bardiche: Luminescent Oil x10, Ancient Jewel x10, Holy Water x20, Bone Shard x35 (Ignis Smithy)
+- Fine Battle Axe: Luminescent Oil x10, Ancient Jewel x10, Holy Water x20, Bone Shard x35 (Ignis Smithy)"
+Axe,technical,Francisca,"Francisca
+フランシスカ",12,21,0,1,0,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor",I,- Gothic Axe: Natura x30 (Common Smithy)
+Axe,technical,Tomahawk,"Tomahawk
+トマホーク",15,24,0,0,1,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor",II,- Francisca: Terra x90 (Common Smithy)
+Axe,technical,Ignis Tomahawk,"Ignis Tomahawk
+トマホーク・火行",15,24,1,0,0,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor",II,- Francisca: Ignis x90 (Common Smithy)
+Axe,technical,Viking Axe,"Viking Axe
+バイキングアクス",22,28,1,1,0,0,-1,0,"Treecleaver, Smash, Maim, Power Disruptor",IV,"- Tomahawk: Terra x145 (Common Smithy)
+- Ignis Tomahawk: Aes x145 (Common Smithy)"
+Axe,technical,Warrior's Hand Axe,"Warrior's Hand Axe
+戦士の手斧",23,28,0,1,0,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor",IV,"- Tomahawk: Natura x30, Ignis x30, Terra x30, Aes x30, Unda x30 (Common Smithy)
+- Ignis Tomahawk: Natura x75, Fibrous Matter x25 (Common Smithy)"
+Axe,technical,Bullova,"Bullova
+ブローヴァ",30,42,0,0,0,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor",VI,"- Viking Axe: Ignis x205 (Common Smithy)
+- Warrior's Hand Axe: Terra x205 (Common Smithy)"
+Axe,technical,Natura Bullova,"Natura Bullova
+ブローヴァ・木行",30,42,0,1,-1,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor",VI,- Viking Axe: Natura x205 (Common Smithy)
+Axe,technical,Ignis Bullova,"Ignis Bullova
+ブローヴァ・火行",30,42,1,0,-1,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor",VI,- Warrior's Hand Axe: Ignis x205 (Common Smithy)
+Axe,technical,Beaked Axe,"Beaked Axe
+ビークドアクス",36,35,0,0,1,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor, Reverse Delta, Morning Glory",VIII,"- Bullova: Ignis x260 (Common Smithy)
+- Natura Bullova: Terra x260 (Common Smithy)
+- Ignis Bullova: Aes x260 (Common Smithy)"
+Axe,technical,Grand Beaked Axe,"Grand Beaked Axe
+ビークドアクス・克",40,38,0,0,2,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor, Reverse Delta, Morning Glory",IX,- Bullova: Natura x290 (Common Smithy)
+Axe,technical,Ignis Beaked Axe,"Ignis Beaked Axe
+ビークドアクス・火行",36,35,1,0,0,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor, Reverse Delta, Morning Glory",VIII,- Natura Bullova: Ignis x260 (Common Smithy)
+Axe,technical,Terra Beaked Axe,"Terra Beaked Axe
+ビークドアクス・土行",36,35,0,0,0,1,0,0,"Treecleaver, Smash, Maim, Power Disruptor, Reverse Delta, Morning Glory",VIII,- Ignis Bullova: Terra x260 (Common Smithy)
+Axe,power,Astral Axe,"Astral Axe
+星辰の斧",41,39,0,2,0,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury, Morning Glory",X,"- Beaked Axe: Terra x320 (Common Smithy)
+- Grand Beaked Axe: Terra x290 (Common Smithy)
+- Ignis Beaked Axe: Aes x320 (Common Smithy)"
+Axe,power,Ignis Astral Axe,"Ignis Astral Axe
+星辰の斧・火行",41,39,1,2,-1,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury, Morning Glory",X,"- Beaked Axe: Ignis x320 (Common Smithy)
+- Grand Beaked Axe: Ignis x290 (Common Smithy)"
+Axe,power,Terra Astral Axe,"Terra Astral Axe
+星辰の斧・土行",41,39,0,2,-1,1,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury, Morning Glory",X,- Ignis Beaked Axe: Terra x320 (Common Smithy)
+Axe,power,Grand Astral Axe,"Grand Astral Axe
+星辰の斧・克",45,42,0,2,1,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury, Morning Glory",XI,- Terra Beaked Axe: Unda x350 (Common Smithy)
+Axe,power,Aes Astral Axe,"Aes Astral Axe
+星辰の斧・金行",44,39,0,2,-1,0,0,0,"Treecleaver, Smash, Vertical Smash, Hyper Hammer, Hell's Fury, Morning Glory",X,- Terra Beaked Axe: Aes x320 (Common Smithy)
+Axe,technical,Rock Axe,"Rock Axe
+ハンマーヘッド",49,43,1,0,-1,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor, Reverse Delta, Morning Glory",XII,"- Astral Axe: Whetstone x10, Screamroot x10, Bone Shard x35, Fibrous Matter x35 (Terra Smithy)
+- Ignis Astral Axe: Whetstone x10, Screamroot x10, Bone Shard x35, Fibrous Matter x35 (Terra Smithy)
+- Terra Astral Axe: Whetstone x10, Screamroot x10, Bone Shard x35, Fibrous Matter x35 (Terra Smithy)
+- Grand Astral Axe: Whetstone x10, Screamroot x10, Bone Shard x30, Fibrous Matter x30 (Terra Smithy)
+- Aes Astral Axe: Whetstone x10, Screamroot x10, Bone Shard x35, Fibrous Matter x35 (Terra Smithy)"
+Axe,standard,Ancient Emerald Axe,"Ancient Emerald Axe
+古のエメラルドアクス",30,37,0,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,
+Axe,standard,Emerald Axe,"Emerald Axe
+エメラルドアクス",42,44,0,1,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",X,"- Ancient Emerald Axe: Latex x45, Natura x65 (Rare Smithy)"
+Axe,standard,Refined Emerald Axe,"Refined Emerald Axe
+新生エメラルドアクス",62,56,0,1,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",XIV,"- Emerald Axe: Screamroot x35, Natura x135 (Rare Smithy)"
+Axe,standard,Ancient Rubellite Axe,"Ancient Rubellite Axe
+古のルベライトアクス",30,37,0,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,
+Axe,standard,Rubellite Axe,"Rubellite Axe
+ルベライトアクス",42,44,1,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",X,"- Ancient Rubellite Axe: Wax x45, Ignis x65 (Rare Smithy)"
+Axe,standard,Refined Rubellite Axe,"Refined Rubellite Axe
+新生ルベライトアクス",62,56,1,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",XIV,"- Rubellite Axe: Luminescent Oil x35, Ignis x135 (Rare Smithy)"
+Axe,standard,Ancient Topaz Axe,"Ancient Topaz Axe
+古のトパーズアクス",30,37,0,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,
+Axe,standard,Topaz Axe,"Topaz Axe
+トパーズアクス",42,44,0,0,0,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",X,"- Ancient Topaz Axe: Leather x45, Terra x65 (Rare Smithy)"
+Axe,standard,Refined Topaz Axe,"Refined Topaz Axe
+新生トパーズアクス",62,56,0,0,0,1,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",XIV,"- Topaz Axe: Whetstone x35, Terra x135 (Rare Smithy)"
+Axe,standard,Ancient Quartz Axe,"Ancient Quartz Axe
+古のクォーツアクス",30,37,0,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,
+Axe,standard,Quartz Axe,"Quartz Axe
+クォーツアクス",42,54,0,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",X,"- Ancient Quartz Axe: Obsidian x45, Aes x65 (Rare Smithy)"
+Axe,standard,Refined Quartz Axe,"Refined Quartz Axe
+新生クォーツアクス",62,66,0,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",XIV,"- Quartz Axe: Ancient Jewel x35, Aes x135 (Rare Smithy)"
+Axe,standard,Ancient Sapphire Axe,"Ancient Sapphire Axe
+古のサファイアアクス",30,37,0,0,0,0,0,0,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer",I,
+Axe,standard,Sapphire Axe,"Sapphire Axe
+サファイアアクス",42,44,0,0,0,0,1,1,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",X,"- Ancient Sapphire Axe: Beast Hide x45, Unda x65 (Rare Smithy)"
+Axe,standard,Refined Sapphire Axe,"Refined Sapphire Axe
+新生サファイアアクス",62,56,0,0,0,0,1,1,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",XIV,"- Sapphire Axe: Icelight x35, Unda x135 (Rare Smithy)"
+Axe,standard,Golden Axe,"Golden Axe
+金の斧",44,44,1,1,1,1,1,1,"Treecleaver, Maim, Vertical Smash, Dimensional Break, Hyper Hammer, Reverse Delta",I,
+Axe,special,Hawkblade,"Hawkblade
+ホークブレード",37,35,0,0,1,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor, Reverse Delta, Morning Glory, Unbridled Frenzy",I,
+Axe,special,Hawkwind,"Hawkwind
+ホークウインド",61,51,0,0,1,0,0,0,"Treecleaver, Smash, Maim, Power Disruptor, Reverse Delta, Morning Glory, Unbridled Frenzy",XIV,"- Hawkblade: Screamroot x35, Natura x135 (Rare Smithy)"
+Bow,technical,Longbow,"Longbow
+長弓",11,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow",I,
+Bow,standard,Reinforced Bow,"Reinforced Bow
+強化弓",12,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",I,"- Longbow: Fibrous Matter x5, Natura x15 (Common Smithy)"
+Bow,standard,Grand Reinforced Bow,"Grand Reinforced Bow
+強化弓・克",14,0,0,0,1,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",I,- Longbow: Unda x30 (Common Smithy)
+Bow,standard,Aes Reinforced Bow,"Aes Reinforced Bow
+強化弓・金行",13,0,0,0,-1,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",I,- Longbow: Aes x30 (Common Smithy)
+Bow,technical,Rattan Bow,"Rattan Bow
+重籐弓",15,0,0,1,1,0,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow",II,"- Reinforced Bow: Ignis x90 (Common Smithy)
+- Grand Reinforced Bow: Ignis x60 (Common Smithy)
+- Aes Reinforced Bow: Fibrous Matter x15, Natura x45 (Common Smithy)"
+Bow,technical,Grand Rattan Bow,"Grand Rattan Bow
+重籐弓・克",17,0,0,1,2,0,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow",III,"- Reinforced Bow: Natura x115 (Common Smithy)
+- Grand Reinforced Bow: Natura x115 (Common Smithy)
+- Aes Reinforced Bow: Natura x115 (Common Smithy)"
+Bow,standard,Battle Bow,"Battle Bow
+戦闘弓",18,0,0,0,-2,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",II,"- Reinforced Bow: Ore Fragment x15, Aes x45 (Common Smithy)
+- Grand Reinforced Bow: Ore Fragment x10, Aes x30 (Common Smithy)
+- Aes Reinforced Bow: Ore Fragment x7, Aes x70 (Rare Smithy)"
+Bow,special,Elder Bow,"Elder Bow
+エルダーボウ",22,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",IV,"- Rattan Bow: Terra x75, Fibrous Matter x25 (Common Smithy)
+- Grand Rattan Bow: Terra x60, Fibrous Matter x20 (Common Smithy)
+- Battle Bow: Terra x75, Fibrous Matter x25 (Common Smithy)"
+Bow,special,Grand Elder Bow,"Grand Elder Bow
+エルダーボウ・克",25,0,0,0,1,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",IV,"- Rattan Bow: Terra x175 (Common Smithy)
+- Grand Rattan Bow: Terra x175 (Common Smithy)"
+Bow,special,Ignis Elder Bow,"Ignis Elder Bow
+エルダーボウ・火行",22,0,1,0,-1,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",IV,"- Rattan Bow: Ignis x145 (Common Smithy)
+- Grand Rattan Bow: Ignis x115 (Common Smithy)"
+Bow,standard,Composite Bow,"Composite Bow
+コンポジットボウ",23,0,0,0,-1,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",IV,- Battle Bow: Natura x145 (Common Smithy)
+Bow,standard,Grand Composite Bow,"Grand Composite Bow
+コンポジットボウ・克",26,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",V,- Battle Bow: Unda x175 (Common Smithy)
+Bow,technical,Wisteria,"Wisteria
+藤娘",29,0,0,1,1,0,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow",VI,"- Elder Bow: Unda x205 (Common Smithy)
+- Grand Elder Bow: Unda x175 (Common Smithy)
+- Ignis Elder Bow: Aes x205 (Common Smithy)"
+Bow,technical,Aes Wisteria,"Aes Wisteria
+藤娘・金行",31,0,0,1,0,0,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow",VI,"- Elder Bow: Aes x205 (Common Smithy)
+- Grand Elder Bow: Aes x175 (Common Smithy)"
+Bow,technical,Terra Wisteria,"Terra Wisteria
+藤娘・土行",29,0,0,1,0,1,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow",VI,- Ignis Elder Bow: Terra x205 (Common Smithy)
+Bow,standard,Steel Bow,"Steel Bow
+剛弓",32,0,0,0,-2,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",VI,"- Composite Bow: Ignis x205 (Common Smithy)
+- Grand Composite Bow: Ignis x175 (Common Smithy)"
+Bow,standard,Natura Steel Bow,"Natura Steel Bow
+剛弓・木行",32,0,0,1,-3,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",VI,"- Composite Bow: Natura x205 (Common Smithy)
+- Grand Composite Bow: Natura x175 (Common Smithy)"
+Bow,special,Astral Bow,"Astral Bow
+星天弓",36,0,0,0,0,0,1,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",VIII,"- Wisteria: Terra x260 (Common Smithy)
+- Aes Wisteria: Natura x260 (Common Smithy)
+- Terra Wisteria: Unda x260 (Common Smithy)"
+Bow,special,Grand Astral Bow,"Grand Astral Bow
+星天弓・克",40,0,0,0,1,0,1,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",IX,- Wisteria: Ignis x290 (Common Smithy)
+Bow,special,Unda Astral Bow,"Unda Astral Bow
+星天弓・水行",36,0,0,0,-1,0,2,1,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",VIII,- Aes Wisteria: Unda x260 (Common Smithy)
+Bow,special,Aes Astral Bow,"Aes Astral Bow
+星天弓・金行",38,0,0,0,-1,0,1,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",VIII,- Terra Wisteria: Aes x260 (Common Smithy)
+Bow,standard,Dragontail,"Dragontail
+龍光の弓",37,0,0,0,-1,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows, Heart Seeker",VIII,- Natura Steel Bow: Terra x260 (Common Smithy)
+Bow,standard,Grand Dragontail,"Grand Dragontail
+龍光の弓・克",41,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows, Heart Seeker",IX,- Steel Bow: Natura x290 (Common Smithy)
+Bow,standard,Unda Dragontail,"Unda Dragontail
+龍光の弓・水行",37,0,0,0,-2,0,1,1,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows, Heart Seeker",VIII,- Steel Bow: Unda x260 (Common Smithy)
+Bow,standard,Ignis Dragontail,"Ignis Dragontail
+龍光の弓・火行",37,0,1,0,-2,0,0,0,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows, Heart Seeker",VIII,- Natura Steel Bow: Ignis x260 (Common Smithy)
+Bow,technical,Terpsichore,"Terpsichore
+舞姫",41,0,0,1,1,0,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow, Falling Phoenix",X,"- Astral Bow: Aes x320 (Common Smithy)
+- Grand Astral Bow: Aes x290 (Common Smithy)
+- Aes Astral Bow: Natura x320 (Common Smithy)"
+Bow,technical,Grand Terpsichore,"Grand Terpsichore
+舞姫・克",45,0,0,1,2,0,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow, Falling Phoenix",XI,- Unda Astral Bow: Ignis x350 (Common Smithy)
+Bow,technical,Terra Terpsichore,"Terra Terpsichore
+舞姫・土行",41,0,0,1,0,1,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow, Falling Phoenix",X,"- Astral Bow: Terra x320 (Common Smithy)
+- Grand Astral Bow: Terra x290 (Common Smithy)"
+Bow,technical,Natura Terpsichore,"Natura Terpsichore
+舞姫・木行",41,0,0,2,0,0,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow, Falling Phoenix",X,- Unda Astral Bow: Natura x320 (Common Smithy)
+Bow,technical,Unda Terpsichore,"Unda Terpsichore
+舞姫・水行",41,0,0,1,0,0,1,2,"Aimed Shot, Quick Nock, Rapid Volley, Shadow Weave, Incendiary Arrow, Falling Phoenix",X,- Aes Astral Bow: Unda x320 (Common Smithy)
+Bow,special,Templar's Bow,"Templar's Bow
+聖騎士の弓",44,0,0,0,-2,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,"- Dragontail: Terra x320 (Common Smithy)
+- Grand Dragontail: Terra x290 (Common Smithy)
+- Unda Dragontail: Ignis x320 (Common Smithy)
+- Ignis Dragontail: Aes x320 (Common Smithy)"
+Bow,special,Ignis Templar's Bow,"Ignis Templar's Bow
+聖騎士の弓・火行",44,0,1,0,-3,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,"- Dragontail: Ignis x320 (Common Smithy)
+- Grand Dragontail: Ignis x290 (Common Smithy)"
+Bow,special,Natura Templar's Bow,"Natura Templar's Bow
+聖騎士の弓・木行",44,0,0,1,-3,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,- Unda Dragontail: Natura x320 (Common Smithy)
+Bow,special,Terra Templar's Bow,"Terra Templar's Bow
+聖騎士の弓・土行",44,0,0,0,-3,1,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,- Ignis Dragontail: Terra x320 (Common Smithy)
+Bow,standard,Grim Reaper,"Grim Reaper
+グリムリーパー",48,0,0,0,0,-1,0,2,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows, Heart Seeker",XII,"- Terpsichore: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)
+- Grand Terpsichore: Terra x70, Fiend Blood x25, Bone Shard x25, Ash x25, Screamroot x10 (Terra Smithy)
+- Terra Terpsichore: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)
+- Natura Terpsichore: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)
+- Unda Terpsichore: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)
+- Templar's Bow: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)
+- Ignis Templar's Bow: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)
+- Natura Templar's Bow: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)
+- Terra Templar's Bow: Terra x80, Fiend Blood x30, Bone Shard x30, Ash x30, Screamroot x10 (Terra Smithy)"
+Bow,special,Ancient Natura Ichaival,"Ancient Natura Ichaival
+木星弓・古",29,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",I,
+Bow,special,Natura Ichaival,"Natura Ichaival
+木星弓",41,0,0,1,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,"- Ancient Natura Ichaival: Latex x45, Natura x65 (Rare Smithy)"
+Bow,special,Elegant Natura Ichaival,"Elegant Natura Ichaival
+木星弓・真",59,0,0,1,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",XIV,"- Natura Ichaival: Screamroot x35, Natura x135 (Rare Smithy)"
+Bow,special,Ancient Ignis Ichaival,"Ancient Ignis Ichaival
+火星弓・古",29,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",I,
+Bow,special,Ignis Ichaival,"Ignis Ichaival
+火星弓",41,0,1,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,"- Ancient Ignis Ichaival: Wax x45, Ignis x65 (Rare Smithy)"
+Bow,special,Elegant Ignis Ichaival,"Elegant Ignis Ichaival
+火星弓・真",59,0,1,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",XIV,"- Ignis Ichaival: Luminescent Oil x35, Ignis x135 (Rare Smithy)"
+Bow,special,Ancient Terra Ichaival,"Ancient Terra Ichaival
+土星弓・古",29,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",I,
+Bow,special,Terra Ichaival,"Terra Ichaival
+土星弓",41,0,0,0,0,1,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,"- Ancient Terra Ichaival: Leather x45, Terra x65 (Rare Smithy)"
+Bow,special,Elegant Terra Ichaival,"Elegant Terra Ichaival
+土星弓・真",59,0,0,0,0,1,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",XIV,"- Terra Ichaival: Whetstone x35, Terra x135 (Rare Smithy)"
+Bow,special,Ancient Aes Ichaival,"Ancient Aes Ichaival
+金星弓・古",29,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",I,
+Bow,special,Aes Ichaival,"Aes Ichaival
+金星弓",42,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,"- Ancient Aes Ichaival: Obsidian x45, Aes x65 (Rare Smithy)"
+Bow,special,Elegant Aes Ichaival,"Elegant Aes Ichaival
+金星弓・真",60,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",XIV,"- Aes Ichaival: Ancient Jewel x35, Aes x135 (Rare Smithy)"
+Bow,special,Ancient Unda Ichaival,"Ancient Unda Ichaival
+水星弓・古",29,0,0,0,0,0,0,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker",I,
+Bow,special,Unda Ichaival,"Unda Ichaival
+水星弓",41,0,0,0,0,0,1,1,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",X,"- Ancient Unda Ichaival: Beast Hide x45, Unda x65 (Rare Smithy)"
+Bow,special,Elegant Unda Ichaival,"Elegant Unda Ichaival
+水星弓・真",59,0,0,0,0,0,1,1,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Heart Seeker, Millionaire",XIV,"- Unda Ichaival: Icelight x35, Unda x135 (Rare Smithy)"
+Bow,standard,Mortuus,"Mortuus
+死の弓",28,0,0,0,0,-1,0,1,"Aimed Shot, Quick Nock, Rapid Volley, Id Break, Rain of Arrows",I,
+Bow,dramatic,Crescent Bow,"Crescent Bow
+三日月弓",40,0,0,0,-1,0,1,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Plasma Shot, Millionaire",I,
+Bow,dramatic,Custom Crescent Bow,"Custom Crescent Bow
+マンメイドクレセント",64,0,0,0,-1,0,1,0,"Aimed Shot, Quick Nock, Incendiary Arrow, Rain of Arrows, Plasma Shot, Millionaire",XIV,"- Crescent Bow: Ancient Jewel x35, Aes x135 (Rare Smithy)"
+Club,standard,Maul,"Maul
+槌",11,15,0,0,-1,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,
+Club,standard,War Hammer,"War Hammer
+ウォーハンマー",12,15,0,0,-1,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,"- Maul: Terra x9, Natura x9, Aes x9 (Common Smithy)"
+Club,standard,Grand War Hammer,"Grand War Hammer
+ウォーハンマー・克",12,16,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,- Maul: Terra x30 (Common Smithy)
+Club,standard,Ignis War Hammer,"Ignis War Hammer
+ウォーハンマー・火行",12,15,1,0,-2,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,- Maul: Ignis x30 (Common Smithy)
+Club,standard,Great Hammer,"Great Hammer
+グレートハンマー",15,17,0,0,-1,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",II,"- War Hammer: Unda x80 (Common Smithy)
+- Grand War Hammer: Unda x55 (Common Smithy)
+- Ignis War Hammer: Aes x80 (Common Smithy)"
+Club,standard,Steel Maul,"Steel Maul
+鋼鉄の槌",19,20,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",IV,- Great Hammer: Terra x130 (Common Smithy)
+Club,standard,Ignis Steel Maul,"Ignis Steel Maul
+鋼鉄の槌・火行",19,20,1,0,-1,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",IV,- Great Hammer: Ignis x130 (Common Smithy)
+Club,technical,Battle Hammer,"Battle Hammer
+バトルハンマー",27,22,0,0,-1,0,0,0,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam",VI,"- Steel Maul: Natura x180 (Common Smithy)
+- Ignis Steel Maul: Aes x180 (Common Smithy)
+- Great Mace: Ignis x60, Obsidian x10, Latex x10 (Common Smithy)
+- Aes Great Mace: Ignis x60, Obsidian x10, Latex x10 (Common Smithy)"
+Club,technical,Unda Battle Hammer,"Unda Battle Hammer
+バトルハンマー・水行",27,22,0,0,-2,0,1,1,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam",VI,- Steel Maul: Unda x180 (Common Smithy)
+Club,technical,Terra Battle Hammer,"Terra Battle Hammer
+バトルハンマー・土行",27,22,0,0,-2,1,0,0,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam",VI,- Ignis Steel Maul: Terra x180 (Common Smithy)
+Club,technical,Ghoststeel Maul,"Ghoststeel Maul
+霊銀の槌",31,24,0,0,0,0,0,0,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam, Nutcracker",VIII,"- Battle Hammer: Aes x230 (Common Smithy)
+- Unda Battle Hammer: Ignis x230 (Common Smithy)
+- Terra Battle Hammer: Unda x230 (Common Smithy)"
+Club,technical,Terra Ghoststeel Maul,"Terra Ghoststeel Maul
+霊銀の槌・土行",31,24,0,0,-1,1,0,0,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam, Nutcracker",VIII,- Battle Hammer: Terra x230 (Common Smithy)
+Club,technical,Grand Ghoststeel Maul,"Grand Ghoststeel Maul
+霊銀の槌・克",34,26,0,0,1,0,0,0,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam, Nutcracker",IX,- Unda Battle Hammer: Natura x260 (Common Smithy)
+Club,technical,Aes Ghoststeel Maul,"Aes Ghoststeel Maul
+霊銀の槌・金行",32,24,0,0,-1,0,0,0,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam, Nutcracker",VIII,- Terra Battle Hammer: Aes x230 (Common Smithy)
+Club,standard,Runic Hammer,"Runic Hammer
+ルーンハンマー",37,27,0,0,-2,0,2,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,"- Ghoststeel Maul: Terra x285 (Common Smithy)
+- Terra Ghoststeel Maul: Unda x285 (Common Smithy)
+- Grand Ghoststeel Maul: Terra x260 (Common Smithy)
+- Aes Ghoststeel Maul: Natura x285 (Common Smithy)
+- Dense Metal Club: Wax x40, Ignis x60 (Ignis Smithy)"
+Club,standard,Grand Runic Hammer,"Grand Runic Hammer
+ルーンハンマー・克",40,28,0,0,-1,0,2,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",XI,"- Ghoststeel Maul: Ignis x310 (Common Smithy)
+- Grand Ghoststeel Maul: Ignis x310 (Common Smithy)"
+Club,standard,Aes Runic Hammer,"Aes Runic Hammer
+ルーンハンマー・金行",39,27,0,0,-3,0,2,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,- Terra Ghoststeel Maul: Aes x285 (Common Smithy)
+Club,standard,Unda Runic Hammer,"Unda Runic Hammer
+ルーンハンマー・水行",37,27,0,0,-3,0,3,1,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,"- Aes Ghoststeel Maul: Unda x285 (Common Smithy)
+- Dense Metal Club: Unda x285 (Common Smithy)"
+Club,technical,Cosmo Egg,"Cosmo Egg
+コスモエッグ",42,29,0,0,-1,0,1,0,"Roundhouse, Enkindle, Bonecrusher, Gale Strike, Grand Slam, Nutcracker",XII,"- Runic Hammer: Beast Hide x20, Latex x20, Holy Water x20 (Unda Smithy)
+- Grand Runic Hammer: Beast Hide x20, Latex x20, Holy Water x20 (Unda Smithy)
+- Aes Runic Hammer: Beast Hide x20, Latex x20, Holy Water x20 (Unda Smithy)
+- Unda Runic Hammer: Beast Hide x20, Latex x20, Holy Water x20 (Unda Smithy)"
+Club,special,Mace,"Mace
+メイス",13,17,1,1,0,0,0,0,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam",II,"- War Hammer: Natura x16, Ignis x16, Terra x16, Aes x16, Unda x16 (Common Smithy)
+- Grand War Hammer: Natura x11, Ignis x11, Terra x11, Aes x11, Unda x11 (Common Smithy)
+- Ignis War Hammer: Terra x30, Natura x30, Aes x30 (Common Smithy)"
+Club,special,Grand Mace,"Grand Mace
+メイス・克",14,18,1,1,1,0,0,0,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam",III,- Ignis War Hammer: Terra x105 (Common Smithy)
+Club,special,Great Mace,"Great Mace
+グレートメイス",18,20,0,1,0,0,0,0,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam",IV,"- Great Hammer: Ignis x65, Aes x65 (Common Smithy)
+- Mace: Unda x130 (Common Smithy)
+- Grand Mace: Unda x105 (Common Smithy)"
+Club,special,Aes Great Mace,"Aes Great Mace
+グレートメイス・金行",19,20,0,1,-1,0,0,0,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam",IV,"- Mace: Aes x130 (Common Smithy)
+- Grand Mace: Aes x105 (Common Smithy)"
+Club,special,Bludgeon,"Bludgeon
+スカッシャー",25,22,0,1,0,0,0,1,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam",VI,"- Great Mace: Aes x180 (Common Smithy)
+- Aes Great Mace: Natura x180 (Common Smithy)"
+Club,special,Terra Bludgeon,"Terra Bludgeon
+スカッシャー・土行",25,22,0,1,-1,1,0,1,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam",VI,- Great Mace: Terra x180 (Common Smithy)
+Club,special,Grand Bludgeon,"Grand Bludgeon
+スカッシャー・克",27,23,0,1,1,0,0,1,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam, Maniac Blossom",VII,- Aes Great Mace: Unda x205 (Common Smithy)
+Club,special,Dense Metal Club,"Dense Metal Club
+ヘヴィメタルクラブ",30,24,0,0,-1,2,0,0,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam, Maniac Blossom",VIII,"- Battle Hammer: Ore Fragment x40, Aes x115 (Common Smithy)
+- Unda Battle Hammer: Ore Fragment x40, Aes x115 (Common Smithy)
+- Terra Battle Hammer: Ore Fragment x40, Aes x115 (Common Smithy)
+- Bludgeon: Ore Fragment x40, Aes x115 (Common Smithy)
+- Terra Bludgeon: Ore Fragment x40, Aes x115 (Common Smithy)
+- Grand Bludgeon: Ore Fragment x35, Aes x105 (Common Smithy)"
+Club,special,Metal Bat,"Metal Bat
+金属バット",35,27,0,2,0,0,-2,0,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam, Maniac Blossom",X,"- Dense Metal Club: Aes x95, Prisma x95, Ore Fragment x35 (Aes Smithy)"
+Club,special,Golden Bat,"Golden Bat
+ゴールデンバット",40,29,0,2,0,0,-2,0,"Roundhouse, Block, Bonecrusher, Shiversmash, Grand Slam, Maniac Blossom",XII,"- Metal Bat: Aes x115, Prisma x115, Ore Fragment x40 (Aes Smithy)"
+Club,standard,Ancient Verdant Mace,"Ancient Verdant Mace
+翠の古棍",25,22,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,
+Club,standard,Verdant Cudgel,"Verdant Cudgel
+翠の棍棒",35,27,0,1,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,"- Ancient Verdant Mace: Latex x40, Natura x60 (Rare Smithy)"
+Club,standard,Verdant Spiritbasher,"Verdant Spiritbasher
+翠の霊棍",51,34,0,1,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",XIV,"- Verdant Cudgel: Screamroot x30, Natura x115 (Rare Smithy)"
+Club,standard,Ancient Crimson Mace,"Ancient Crimson Mace
+紅の古棍",25,22,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,
+Club,standard,Crimson Cudgel,"Crimson Cudgel
+紅の棍棒",35,27,1,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,"- Ancient Crimson Mace: Wax x40, Ignis x60 (Rare Smithy)"
+Club,standard,Crimson Spiritbasher,"Crimson Spiritbasher
+紅の霊棍",51,34,1,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",XIV,"- Crimson Cudgel: Luminescent Oil x30, Ignis x115 (Rare Smithy)"
+Club,standard,Ancient Umber Mace,"Ancient Umber Mace
+土の古棍",25,22,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,
+Club,standard,Umber Cudgel,"Umber Cudgel
+土の棍棒",35,27,0,0,0,1,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,"- Ancient Umber Mace: Leather x40, Terra x60 (Rare Smithy)"
+Club,standard,Umber Spiritbasher,"Umber Spiritbasher
+土の霊棍",51,34,0,0,0,1,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",XIV,"- Umber Cudgel: Whetstone x30, Terra x115 (Rare Smithy)"
+Club,standard,Ancient Silver Mace,"Ancient Silver Mace
+銀の古棍",25,22,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,
+Club,standard,Silver Cudgel,"Silver Cudgel
+銀の棍棒",35,37,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,"- Ancient Silver Mace: Obsidian x40, Aes x60 (Rare Smithy)"
+Club,standard,Silver Spiritbasher,"Silver Spiritbasher
+銀の霊棍",51,44,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",XIV,"- Silver Cudgel: Ancient Jewel x30, Aes x115 (Rare Smithy)"
+Club,standard,Ancient Azure Mace,"Ancient Azure Mace
+青の古棍",25,22,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam",I,
+Club,standard,Azure Cudgel,"Azure Cudgel
+青の棍棒",35,27,0,0,0,0,1,1,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",X,"- Ancient Azure Mace: Beast Hide x40, Unda x60 (Rare Smithy)"
+Club,standard,Azure Spiritbasher,"Azure Spiritbasher
+青の霊棍",51,34,0,0,0,0,1,1,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",XIV,"- Azure Cudgel: Icelight x30, Unda x115 (Rare Smithy)"
+Club,standard,Sledgehammer,"Sledgehammer
+スリッジハンマー",39,27,0,0,0,0,0,0,"Roundhouse, Block, Enkindle, Seismic Strike, Grand Slam, Nutcracker",I,
+Club,power,Frying Pan,"Frying Pan
+フライパン",19,40,0,0,0,0,0,0,"Roundhouse, Rock Splitter, Bonecrusher, Shiversmash, Grand Slam",I,
+Club,power,Blunt Instrument,"Blunt Instrument
+鈍器",55,54,0,0,0,0,0,0,"Roundhouse, Rock Splitter, Bonecrusher, Shiversmash, Grand Slam, Maniac Blossom",XIV,"- Frying Pan: Ancient Jewel x30, Aes x115 (Rare Smithy)"
+Staff,standard,Staff,"Staff
+スタッフ",8,14,0,0,-1,0,0,1,Focusing Strike,I,
+Staff,standard,Great Staff,"Great Staff
+グレートスタッフ",9,15,0,0,-1,0,1,0,Focusing Strike,I,- Staff: Ignis x30 (Common Smithy)
+Staff,standard,Grand Great Staff,"Grand Great Staff
+グレートスタッフ・克",11,16,0,0,0,0,1,0,Focusing Strike,I,- Staff: Natura x30 (Common Smithy)
+Staff,standard,Spiral Staff,"Spiral Staff
+螺旋の杖",13,17,0,1,-1,0,0,0,Focusing Strike,II,"- Great Staff: Terra x80 (Common Smithy)
+- Grand Great Staff: Terra x55 (Common Smithy)
+- Silver Staff: Ore Fragment x6, Aes x65 (Rare Smithy)"
+Staff,standard,Mage's Staff,"Mage's Staff
+メイジスタッフ",18,20,0,0,-1,0,1,0,Focusing Strike,IV,"- Spiral Staff: Natura x130 (Common Smithy)
+- Staff of Glory: Unda x65, Ignis x65 (Common Smithy)"
+Staff,standard,Grand Mage's Staff,"Grand Mage's Staff
+メイジスタッフ・克",21,21,0,0,0,0,1,0,Focusing Strike,V,- Spiral Staff: Unda x155 (Common Smithy)
+Staff,standard,Enchanter's Spire,"Enchanter's Spire
+術士の戟",25,22,0,0,-1,0,0,1,"Focusing Strike, Shattered Dreams",VI,"- Mage's Staff: Wax x10, Ignis x150 (Ignis Smithy)
+- Grand Mage's Staff: Wax x5, Ignis x130 (Ignis Smithy)
+- Sandwyrm Staff: Wax x10, Ignis x150 (Ignis Smithy)
+- Grand Sandwyrm Staff: Wax x5, Ignis x130 (Ignis Smithy)"
+Staff,standard,Grand Enchanter's Spire,"Grand Enchanter's Spire
+術士の戟・克",27,23,0,0,0,0,0,1,"Focusing Strike, Shattered Dreams",VII,"- Mage's Staff: Ignis x205 (Common Smithy)
+- Grand Mage's Staff: Ignis x205 (Common Smithy)"
+Staff,standard,Ghoststeel Staff,"Ghoststeel Staff
+霊銀の杖",29,24,0,0,-1,0,0,1,Focusing Strike,VIII,"- Enchanter's Spire: Aes x230 (Common Smithy)
+- Grand Enchanter's Spire: Aes x205 (Common Smithy)
+- Mystic's Wand: Natura x80, Obsidian x15, Beast Hide x15 (Common Smithy)"
+Staff,standard,Runic Staff,"Runic Staff
+ルーンの杖",34,27,0,0,-1,0,1,0,Focusing Strike,X,"- Ghoststeel Staff: Terra x285 (Common Smithy)
+- Quarterstaff: Ignis x285 (Common Smithy)
+- Grand Quarterstaff: Ignis x260 (Common Smithy)"
+Staff,standard,Grand Runic Staff,"Grand Runic Staff
+ルーンの杖・克",37,28,0,0,0,0,1,0,Focusing Strike,XI,- Ghoststeel Staff: Ignis x310 (Common Smithy)
+Staff,standard,Thyrsus,"Thyrsus
+ハードロック",44,29,0,0,-2,0,0,0,"Focusing Strike, Shattered Dreams",XII,"- Runic Staff: Whetstone x10, Ancient Jewel x10, Obsidian x15, Terra x85 (Terra Smithy)"
+Staff,aes only,Silver Staff,"Silver Staff
+銀環の杖",9,5,0,0,0,0,2,0,Focusing Strike,I,"- Staff: Ore Fragment x5, Aes x14 (Common Smithy)
+- Tambo: Ore Fragment x1, Aes x25 (Aes Smithy)"
+Staff,ignis only,Staff of Glory,"Staff of Glory
+栄光の杖",11,7,0,0,0,0,1,2,Focusing Strike,II,"- Great Staff: Ignis x80 (Common Smithy)
+- Grand Great Staff: Ignis x55 (Common Smithy)
+- Silver Staff: Natura x80 (Common Smithy)
+- Tambo: Ash x6, Ignis x65 (Ignis Smithy)
+- Caduceus: Ash x6, Ignis x65 (Ignis Smithy)"
+Staff,terra only,Sandwyrm Staff,"Sandwyrm Staff
+砂龍の杖",16,10,0,0,0,0,2,0,Focusing Strike,IV,"- Spiral Staff: Bone Shard x15, Scale x15, Terra x45 (Common Smithy)
+- Staff of Glory: Aes x130 (Common Smithy)"
+Staff,terra only,Grand Sandwyrm Staff,"Grand Sandwyrm Staff
+砂龍の杖・克",19,11,0,0,1,0,2,0,Focusing Strike,V,"- Staff of Glory: Terra x155 (Common Smithy)
+- Caduceus: Bone Shard x30, Terra x80 (Terra Smithy)"
+Staff,unda only,Mystic's Wand,"Mystic's Wand
+ミスティックワンド",23,12,0,0,0,0,1,2,Focusing Strike,VI,"- Mage's Staff: Natura x40, Ignis x40, Terra x40, Aes x40, Unda x40 (Common Smithy)
+- Grand Mage's Staff: Natura x35, Ignis x35, Terra x35, Aes x35, Unda x35 (Common Smithy)
+- Sandwyrm Staff: Unda x180 (Common Smithy)
+- Grand Sandwyrm Staff: Unda x155 (Common Smithy)"
+Staff,natura only,Quarterstaff,"Quarterstaff
+ジャウスト",27,14,0,0,1,-1,2,0,Focusing Strike,VIII,"- Enchanter's Spire: Latex x20, Natura x135 (Natura Smithy)
+- Grand Enchanter's Spire: Latex x15, Natura x120 (Natura Smithy)
+- Mystic's Wand: Ignis x230 (Common Smithy)"
+Staff,natura only,Grand Quarterstaff,"Grand Quarterstaff
+ジャウスト・克",30,16,0,0,2,-1,2,0,Focusing Strike,IX,- Mystic's Wand: Natura x260 (Common Smithy)
+Staff,unda only,Tambo,"Tambo
+リムストック",32,17,0,0,0,0,2,1,Focusing Strike,X,"- Ghoststeel Staff: Icelight x15, Beast Hide x25 (Unda Smithy)
+- Quarterstaff: Beast Hide x40, Unda x60 (Unda Smithy)
+- Grand Quarterstaff: Beast Hide x35, Unda x55 (Unda Smithy)"
+Staff,aes only,Caduceus,"Caduceus
+カドゥケウス",39,19,0,0,0,0,2,0,Focusing Strike,XII,"- Tambo: Ancient Jewel x15, Screamroot x15, Holy Water x20 (Aes Smithy)"
+Staff,basic,Transitory Staff,"Transitory Staff
+無常の杖",17,10,0,0,0,0,1,0,Focusing Strike,IV,"- Great Staff: Natura x30, Ignis x30, Terra x30, Aes x30, Unda x30 (Rare Smithy)
+- Grand Great Staff: Natura x30, Ignis x30, Terra x30, Aes x30, Unda x30 (Rare Smithy)
+- Moldbreaker: Scale x20, Unda x80 (Unda Smithy)"
+Staff,reverse,Moldbreaker,"Moldbreaker
+モールドブレイカー",41,19,0,0,1,1,0,2,Focusing Strike,XII,"- Transitory Staff: Screamroot x10, Natura x235 (Natura Smithy)"
+Staff,standard,Eternity Staff,"Eternity Staff
+ブリムスラーヴス",36,27,3,0,0,0,0,0,"Focusing Strike, Shattered Dreams, Cruncher",I,
+Shield,,Buckler,"Buckler
+バックラー",0,7,0,0,-1,0,0,0,#N/A,I,
+Shield,,Rondache,"Rondache
+スマートガード",0,8,0,0,-1,0,0,0,#N/A,I,- Buckler: Unda x4 (Common Smithy)
+Shield,,Targe,"Targe
+ターゲット",0,10,0,0,-1,0,0,0,#N/A,II,- Rondache: Natura x11 (Common Smithy)
+Shield,,Metal Guard,"Metal Guard
+メタルガード",0,13,0,0,-1,0,0,0,#N/A,VI,"- Targe: Obsidian x1, Aes x20 (Aes Smithy)"
+Shield,,Sterling Shield,"Sterling Shield
+エクセルガード",0,14,0,0,-1,0,0,0,#N/A,VIII,"- Metal Guard: Wax x3, Ignis x19 (Ignis Smithy)"
+Shield,,Radiant Shield,"Radiant Shield
+ブレスガード",0,16,0,0,-1,0,0,1,#N/A,X,"- Sterling Shield: Beast Hide x10, Unda x8 (Unda Smithy)"
+Shield,,Abyssal Shield,"Abyssal Shield
+アビスガード",0,25,-1,-1,-1,-1,-1,-1,#N/A,XII,"- Radiant Shield: Terra x10, Fiend Blood x4, Bone Shard x4, Beast Hide x2, Ancient Jewel x1 (Terra Smithy)"
+Shield,,Tower Shield,"Tower Shield
+タワーシールド",0,9,0,0,-2,0,0,0,#N/A,I,
+Shield,,Scutum,"Scutum
+スクトゥム",0,10,0,0,-2,0,0,0,#N/A,I,"- Tower Shield: Fibrous Matter x1, Natura x2 (Common Smithy)"
+Shield,,Scion's Shield,"Scion's Shield
+従騎士の盾",0,13,0,0,-2,0,0,0,#N/A,IV,- Scutum: Terra x18 (Common Smithy)
+Shield,,Ghoststeel Shield,"Ghoststeel Shield
+霊銀の盾",0,16,0,0,-3,0,1,0,#N/A,VIII,"- Scion's Shield: Latex x3, Natura x19 (Natura Smithy)"
+Shield,,Astral Shield,"Astral Shield
+星辰の盾",0,18,0,0,-1,0,0,0,#N/A,X,"- Ghoststeel Shield: Beast Hide x10, Unda x8 (Unda Smithy)"
+Shield,,Templar's Shield,"Templar's Shield
+聖騎士の盾",0,19,0,0,-2,0,0,0,#N/A,XII,"- Astral Shield: Ancient Jewel x2, Aes x35 (Aes Smithy)"
