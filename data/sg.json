@@ -1,184 +1,184 @@
 {
   "missions": [
     {
-      "region": "Normi ​​Frontier State",
-      "city": "Eastern village",
+      "region": "Normi",
+      "city": "Ostdorf",
       "name": "Hunter Association",
-      "duration": "Ten",
-      "stat": "Technical capabilities",
-      "ability_increase": "Club technique",
-      "basic_reward": "Gold crystals",
-      "great_reward": "Gold crystals"
+      "duration": 10,
+      "stat": "Dexterity",
+      "ability_increase": "Club",
+      "basic_reward": "Aes Crystals",
+      "great_reward": "Aes Crystals"
     },
     {
-      "region": "Trakini Termina",
-      "city": "Yozgad Railway Station",
-      "name": "Yozgado Transport",
-      "duration": "Ten",
-      "stat": "Physical strength",
-      "ability_increase": "Spear technique",
-      "basic_reward": "Rainbow crystal",
-      "great_reward": "Rainbow crystal"
+      "region": "Thracini/Termina",
+      "city": "Josgad Railway Station",
+      "name": "Josgad Transport",
+      "duration": 10,
+      "stat": "Strength",
+      "ability_increase": "Spear",
+      "basic_reward": "Prisma Crystals",
+      "great_reward": "Prisma Crystals"
     },
     {
-      "region": "Leia Frontier State",
-      "city": "Bigo",
+      "region": "Ria",
+      "city": "Vigo",
       "name": "Agriculture and forestry association",
-      "duration": "7",
+      "duration": 7,
       "stat": "LP5 or less",
       "ability_increase": "HP",
-      "basic_reward": "Tree crystal",
-      "great_reward": "Tree crystal"
+      "basic_reward": "Natura Crystals",
+      "great_reward": "Natura Crystals"
     },
     {
-      "region": "Ilphi sea",
+      "region": "Ilfee",
       "city": "New Wise",
       "name": "Fishery association",
-      "duration": "Ten",
-      "stat": "Motility",
-      "ability_increase": "Taijutsu",
-      "basic_reward": "Water crystals",
-      "great_reward": "Film"
+      "duration": 10,
+      "stat": "Mobility",
+      "ability_increase": "Martial Arts",
+      "basic_reward": "Unda Crystals",
+      "great_reward": "Beast Hide"
     },
     {
-      "region": "Out of the northeast",
-      "city": "Finnemundi",
+      "region": "Northeast Boundary",
+      "city": "Finemundi",
       "name": "Mining area",
-      "duration": "7",
+      "duration": 7,
       "stat": "Intelligence",
-      "ability_increase": "Earthmoving",
-      "basic_reward": "Earth crystals",
-      "great_reward": "Bone fragment"
+      "ability_increase": "Terra Incantation",
+      "basic_reward": "Terra Crystals",
+      "great_reward": "Bone Shard"
     },
     {
-      "region": "Ronikum",
-      "city": "Rogue Village",
+      "region": "Rhonicum",
+      "city": "Lug",
       "name": "Village hall",
-      "duration": "7",
-      "stat": "concentration",
-      "ability_increase": "Woodwork",
-      "basic_reward": "Tree crystal",
-      "great_reward": "Fiber quality"
+      "duration": 7,
+      "stat": "Acuity",
+      "ability_increase": "Natura Incantation",
+      "basic_reward": "Natura Crystals",
+      "great_reward": "Fibrous Matter"
     },
     {
-      "region": "Bikini Frontier State",
+      "region": "Bicyniro",
       "city": "Caprese",
-      "name": "Security union",
-      "duration": "Ten",
+      "name": "Security Union",
+      "duration": 10,
       "stat": "LP",
-      "ability_increase": "Sword skill",
-      "basic_reward": "Rainbow crystal",
-      "great_reward": "Holy water"
+      "ability_increase": "Shortsword",
+      "basic_reward": "Prisma Crystals",
+      "great_reward": "Holy Water"
     },
     {
-      "region": "Out of the southeast",
+      "region": "Southeast Boundary",
       "city": "Birdman Village",
       "name": "Food processing association",
-      "duration": "7",
+      "duration": 7,
       "stat": "Intelligence",
-      "ability_increase": "Fire technique",
-      "basic_reward": "Crystal of fire",
+      "ability_increase": "Ignis Incantation",
+      "basic_reward": "Ignis Crystals",
       "great_reward": "Ash"
     },
     {
       "region": "Hibernia",
-      "city": "Keobran",
+      "city": "Ceobhran",
       "name": "Woodwork",
-      "duration": "7",
-      "stat": "Technical capabilities",
-      "ability_increase": "Cane technique",
-      "basic_reward": "Rainbow crystal",
-      "great_reward": "Demon blood"
+      "duration": 7,
+      "stat": "Dexterity",
+      "ability_increase": "Staff",
+      "basic_reward": "Prisma Crystals",
+      "great_reward": "Fiend Blood"
     },
     {
-      "region": "Yusitania",
-      "city": "Misery Village",
+      "region": "Jusitania",
+      "city": "Misery",
       "name": "Cleaning Bureau",
-      "duration": "7",
-      "stat": "concentration",
+      "duration": 7,
+      "stat": "Acuity",
       "ability_increase": "HP",
-      "basic_reward": "Water crystals",
-      "great_reward": "scale"
+      "basic_reward": "Unda Crystals",
+      "great_reward": "Scale"
     },
     {
-      "region": "San d'Oria Gladion",
-      "city": "Youmen",
+      "region": "Cindrea/Gradion",
+      "city": "Yumen",
       "name": "Great Wall Preservation Society",
-      "duration": "Ten",
-      "stat": "Physical strength",
+      "duration": 10,
+      "stat": "Endurance",
       "ability_increase": "HP",
-      "basic_reward": "Gold crystals",
-      "great_reward": "obsidian"
+      "basic_reward": "Aes Crystals",
+      "great_reward": "Obsidian"
     },
     {
-      "region": "Moulewa",
-      "city": "Horsa",
+      "region": "Maurehua",
+      "city": "Halsa",
       "name": "Forest association",
-      "duration": "Ten",
-      "stat": "Muscle strength",
+      "duration": 10,
+      "stat": "Strength",
       "ability_increase": "Ax",
-      "basic_reward": "Tree crystal",
-      "great_reward": "latex"
+      "basic_reward": "Natura Crystals",
+      "great_reward": "Latex"
     },
     {
-      "region": "Moulewa State Kay",
-      "city": "Outai Tei",
+      "region": "Maurehua/Kei",
+      "city": "Owtie Arbor",
       "name": "Tourism Association",
-      "duration": "7",
+      "duration": 7,
       "stat": "Strength 8 or less",
-      "ability_increase": "Hydrology",
-      "basic_reward": "Water crystals",
-      "great_reward": "Water crystals"
+      "ability_increase": "Unda Incantation",
+      "basic_reward": "Unda Crystals",
+      "great_reward": "Unda Crystals"
     },
     {
-      "region": "Kay",
+      "region": "Kei",
       "city": "Nangoon",
       "name": "Detective office",
-      "duration": "Ten",
+      "duration": 10,
       "stat": "LP6 or higher",
       "ability_increase": "Archery",
-      "basic_reward": "Crystal of fire",
-      "great_reward": "wax"
+      "basic_reward": "Ignis Crystals",
+      "great_reward": "Wax"
     },
     {
-      "region": "Megdasse Frontier State",
-      "city": "Waromil village",
+      "region": "Megdasse",
+      "city": "Waromir Quarters",
       "name": "Sheep farm",
-      "duration": "Ten",
-      "stat": "Concentration 8 or less",
+      "duration": 10,
+      "stat": "Acuity 8 or less",
       "ability_increase": "HP",
-      "basic_reward": "Earth crystals",
-      "great_reward": "Earth crystals"
+      "basic_reward": "Terra Crystals",
+      "great_reward": "Terra Crystals"
     },
     {
-      "region": "Yaksart Frontier State",
+      "region": "Yaxart",
       "city": "Stahl",
       "name": "Blacksmith union",
-      "duration": "Ten",
-      "stat": "Muscle strength",
-      "ability_increase": "Great sword",
-      "basic_reward": "Crystal of fire",
-      "great_reward": "Crystal of fire"
+      "duration": 10,
+      "stat": "Strength",
+      "ability_increase": "Greatsword",
+      "basic_reward": "Ignis Crystals",
+      "great_reward": "Ignis Crystals"
     },
     {
-      "region": "Numadika Frontier State",
-      "city": "Berike",
+      "region": "Numadica",
+      "city": "Belike",
       "name": "Excavation camp",
-      "duration": "7",
-      "stat": "Motility 8 or less",
-      "ability_increase": "Gold practice",
-      "basic_reward": "Gold crystals",
-      "great_reward": "Ore fragments"
+      "duration": 7,
+      "stat": "Mobility 8 or less",
+      "ability_increase": "Aes Incantation",
+      "basic_reward": "Aes Crystals",
+      "great_reward": "Ore Fragment"
     },
     {
-      "region": "Teito Asuwakan",
-      "city": "Black market",
+      "region": "Azhuacan",
+      "city": "Black Market",
       "name": "Assassination cult",
-      "duration": "Ten",
-      "stat": "Motility",
-      "ability_increase": "Long sword",
-      "basic_reward": "Earth crystals",
-      "great_reward": "fur"
+      "duration": 10,
+      "stat": "Mobility",
+      "ability_increase": "Longsword",
+      "basic_reward": "Terra Crystals",
+      "great_reward": "Leather"
     }
   ]
 }
