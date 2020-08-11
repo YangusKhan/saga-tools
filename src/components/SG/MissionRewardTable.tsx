@@ -1,4 +1,5 @@
 import React from "react";
+import "./MissionTable.css";
 
 export declare namespace MissionRewardTable {
   export interface MissionInfo {
