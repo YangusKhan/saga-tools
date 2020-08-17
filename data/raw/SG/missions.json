@@ -8,7 +8,8 @@
       "stat": "Dexterity",
       "ability_increase": "Club",
       "basic_reward": "Aes Crystals",
-      "great_reward": "Aes Crystals"
+      "great_reward": "Aes Crystals",
+      "element": "aes"
     },
     {
       "region": "Thracini/Termina",
@@ -18,7 +19,8 @@
       "stat": "Strength",
       "ability_increase": "Spear",
       "basic_reward": "Prisma Crystals",
-      "great_reward": "Prisma Crystals"
+      "great_reward": "Prisma Crystals",
+      "element": "prisma"
     },
     {
       "region": "Ria",
@@ -28,7 +30,8 @@
       "stat": "LP5 or less",
       "ability_increase": "HP",
       "basic_reward": "Natura Crystals",
-      "great_reward": "Natura Crystals"
+      "great_reward": "Natura Crystals",
+      "element": "natura"
     },
     {
       "region": "Ilfee",
@@ -38,7 +41,8 @@
       "stat": "Mobility",
       "ability_increase": "Martial Arts",
       "basic_reward": "Unda Crystals",
-      "great_reward": "Beast Hide"
+      "great_reward": "Beast Hide",
+      "element": "unda"
     },
     {
       "region": "Northeast Boundary",
@@ -48,7 +52,8 @@
       "stat": "Intelligence",
       "ability_increase": "Terra Incantation",
       "basic_reward": "Terra Crystals",
-      "great_reward": "Bone Shard"
+      "great_reward": "Bone Shard",
+      "element": "terra"
     },
     {
       "region": "Rhonicum",
@@ -58,7 +63,8 @@
       "stat": "Acuity",
       "ability_increase": "Natura Incantation",
       "basic_reward": "Natura Crystals",
-      "great_reward": "Fibrous Matter"
+      "great_reward": "Fibrous Matter",
+      "element": "natura"
     },
     {
       "region": "Bicyniro",
@@ -68,7 +74,8 @@
       "stat": "LP",
       "ability_increase": "Shortsword",
       "basic_reward": "Prisma Crystals",
-      "great_reward": "Holy Water"
+      "great_reward": "Holy Water",
+      "element": "prisma"
     },
     {
       "region": "Southeast Boundary",
@@ -78,7 +85,8 @@
       "stat": "Intelligence",
       "ability_increase": "Ignis Incantation",
       "basic_reward": "Ignis Crystals",
-      "great_reward": "Ash"
+      "great_reward": "Ash",
+      "element": "ignis"
     },
     {
       "region": "Hibernia",
@@ -88,7 +96,8 @@
       "stat": "Dexterity",
       "ability_increase": "Staff",
       "basic_reward": "Prisma Crystals",
-      "great_reward": "Fiend Blood"
+      "great_reward": "Fiend Blood",
+      "element": "prisma"
     },
     {
       "region": "Jusitania",
@@ -98,7 +107,8 @@
       "stat": "Acuity",
       "ability_increase": "HP",
       "basic_reward": "Unda Crystals",
-      "great_reward": "Scale"
+      "great_reward": "Scale",
+      "element": "unda"
     },
     {
       "region": "Cindrea/Gradion",
@@ -108,7 +118,8 @@
       "stat": "Endurance",
       "ability_increase": "HP",
       "basic_reward": "Aes Crystals",
-      "great_reward": "Obsidian"
+      "great_reward": "Obsidian",
+      "element": "aes"
     },
     {
       "region": "Maurehua",
@@ -118,7 +129,8 @@
       "stat": "Strength",
       "ability_increase": "Ax",
       "basic_reward": "Natura Crystals",
-      "great_reward": "Latex"
+      "great_reward": "Latex",
+      "element": "natura"
     },
     {
       "region": "Maurehua/Kei",
@@ -128,7 +140,8 @@
       "stat": "Strength 8 or less",
       "ability_increase": "Unda Incantation",
       "basic_reward": "Unda Crystals",
-      "great_reward": "Unda Crystals"
+      "great_reward": "Unda Crystals",
+      "element": "unda"
     },
     {
       "region": "Kei",
@@ -138,7 +151,8 @@
       "stat": "LP6 or higher",
       "ability_increase": "Archery",
       "basic_reward": "Ignis Crystals",
-      "great_reward": "Wax"
+      "great_reward": "Wax",
+      "element": "ignis"
     },
     {
       "region": "Megdasse",
@@ -148,7 +162,8 @@
       "stat": "Acuity 8 or less",
       "ability_increase": "HP",
       "basic_reward": "Terra Crystals",
-      "great_reward": "Terra Crystals"
+      "great_reward": "Terra Crystals",
+      "element": "terra"
     },
     {
       "region": "Yaxart",
@@ -158,7 +173,8 @@
       "stat": "Strength",
       "ability_increase": "Greatsword",
       "basic_reward": "Ignis Crystals",
-      "great_reward": "Ignis Crystals"
+      "great_reward": "Ignis Crystals",
+      "element": "ignis"
     },
     {
       "region": "Numadica",
@@ -168,7 +184,8 @@
       "stat": "Mobility 8 or less",
       "ability_increase": "Aes Incantation",
       "basic_reward": "Aes Crystals",
-      "great_reward": "Ore Fragment"
+      "great_reward": "Ore Fragment",
+      "element": "aes"
     },
     {
       "region": "Azhuacan",
@@ -178,7 +195,8 @@
       "stat": "Mobility",
       "ability_increase": "Longsword",
       "basic_reward": "Terra Crystals",
-      "great_reward": "Leather"
+      "great_reward": "Leather",
+      "element": "terra"
     }
   ]
 }

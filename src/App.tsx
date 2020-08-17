@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import { MissionRewardTable } from "./components/SG/MissionRewardTable";
+import { MissionRewards } from "./components/SG/MissionRewards";
 
 function App() {
   const [missionData, setState] = React.useState([]);
@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <MissionRewardTable missionData={missionData}></MissionRewardTable>
+        <MissionRewards data={missionData}></MissionRewards>
       </header>
     </div>
   );

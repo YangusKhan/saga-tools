@@ -1,27 +1,19 @@
 import React from "react";
-import "./MissionTable.css";
+import { MissionRewards, FilterContext } from "./MissionRewards";
 
-export declare namespace MissionRewardTable {
-  export interface MissionInfo {
-    region: string;
-    city: string;
-    name: string;
-    duration: number;
-    stat: string;
-    ability_increase: string;
-    basic_reward: string;
-    great_reward: string;
-  }
-
-  export interface Props {
-    missionData: MissionInfo[];
-  }
+function filterMissionInfo(filters: MissionRewards.FilterContext) {
+  return function (data: MissionRewards.MissionInfo) {
+    return filters.elements.has(data.element);
+  };
 }
 
-function renderMissionInfo(data: MissionRewardTable.MissionInfo[]) {
-  return data.map((mission) => {
+function renderMissionInfo(
+  data: MissionRewards.MissionInfo[],
+  filters: MissionRewards.FilterContext
+) {
+  return data.filter(filterMissionInfo(filters)).map((mission) => {
     return (
-      <tr>
+      <tr className={`bg-${mission.element}`} key={mission.region}>
         <td>{mission.region}</td>
         <td>{mission.city}</td>
         <td>{mission.stat}</td>
@@ -34,22 +26,25 @@ function renderMissionInfo(data: MissionRewardTable.MissionInfo[]) {
   });
 }
 
-export function MissionRewardTable(props: MissionRewardTable.Props) {
-  const { missionData } = props;
+export function MissionRewardTable(props: MissionRewards.Props) {
+  const { data } = props;
+  const filters = React.useContext(FilterContext);
   return (
-    <table>
-      <thead>
-        <tr>
-          <td>Region</td>
-          <td>City</td>
-          <td>Attribute Requirement</td>
-          <td>Basic Reward</td>
-          <td>Great Reward</td>
-          <td>Ability Increase</td>
-          <td>Duration</td>
-        </tr>
-      </thead>
-      <tbody>{renderMissionInfo(missionData)}</tbody>
-    </table>
+    <div className="table-responsive-lg">
+      <table className="table table-bordered table-sm">
+        <thead className="thead-dark">
+          <tr>
+            <td>Region</td>
+            <td>City</td>
+            <td>Attribute Requirement</td>
+            <td>Basic Reward</td>
+            <td>Great Reward</td>
+            <td>Ability Increase</td>
+            <td>Duration</td>
+          </tr>
+        </thead>
+        <tbody>{renderMissionInfo(data, filters)}</tbody>
+      </table>
+    </div>
   );
 }

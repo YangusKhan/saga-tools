@@ -1,8 +1,6 @@
-table {
-  border-collapse: collapse;
-}
-
-table,
-td {
-  border: 3px solid white;
-}
+.bg-unda { background-color: #b8daff; }
+.bg-terra { background-color: #ffeeba; }
+.bg-natura { background-color: #c3e6cb; }
+.bg-ignis { background-color: #f5c6cb; }
+.bg-aes { background-color: #d6d8db; }
+.bg-prisma { background-color: #cea0ce; }
