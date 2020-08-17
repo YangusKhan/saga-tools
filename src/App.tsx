@@ -6,7 +6,7 @@ function App() {
   const [missionData, setState] = React.useState([]);
   React.useEffect(() => {
     async function fetchData() {
-      const missionJSON = await fetch("/data/sg.json");
+      const missionJSON = await fetch("/saga-tools/data/sg.json");
       const missions = JSON.parse(await missionJSON.text());
       setState(missions.missions);
     }
