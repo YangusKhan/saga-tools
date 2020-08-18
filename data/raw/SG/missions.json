@@ -13,8 +13,8 @@
     },
     {
       "region": "Thracini/Termina",
-      "city": "Josgad Railway Station",
-      "name": "Josgad Transport",
+      "city": "Josgad Station",
+      "name": "Josgad Express",
       "duration": 10,
       "stat": "Strength",
       "ability_increase": "Spear",

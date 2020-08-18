@@ -17,7 +17,7 @@ export declare namespace MissionRewards {
   }
 
   export interface Props {
-    data: MissionInfo[];
+    data?: MissionInfo[];
   }
 
   export interface FilterContext {

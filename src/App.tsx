@@ -1,24 +1,42 @@
 import React from "react";
 import "./App.css";
+import cytoscape from "cytoscape";
 import { MissionRewards } from "./components/SG/MissionRewards";
+import { BlacksmithPage } from "./components/SG/BlacksmithPage";
+
+export type WeaponTypes =
+  | "LSword"
+  | "GSword"
+  | "Rapier"
+  | "Spear"
+  | "Axe"
+  | "Club"
+  | "Bow";
+
+export type GearTypes = WeaponTypes | "Shield";
+
+interface State {
+  missions: any[];
+  blacksmith: { [k in GearTypes]: cytoscape.ElementsDefinition };
+  tech_spark: { [k in WeaponTypes]: cytoscape.ElementsDefinition };
+}
 
 function App() {
-  const [missionData, setState] = React.useState([]);
+  const [data, setState] = React.useState<State | undefined>(undefined);
   React.useEffect(() => {
     async function fetchData() {
       const missionJSON = await fetch("/saga-tools/data/sg.json");
       const missions = JSON.parse(await missionJSON.text());
-      setState(missions.missions);
+      setState(missions);
     }
     fetchData();
     return () => {};
   }, [setState]);
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <MissionRewards data={missionData}></MissionRewards>
-      </header>
+    <div className="app-container">
+      <BlacksmithPage data={data?.blacksmith} />
+      <MissionRewards data={data?.missions} />
     </div>
   );
 }

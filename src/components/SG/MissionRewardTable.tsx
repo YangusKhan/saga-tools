@@ -43,7 +43,7 @@ export function MissionRewardTable(props: MissionRewards.Props) {
             <td>Duration</td>
           </tr>
         </thead>
-        <tbody>{renderMissionInfo(data, filters)}</tbody>
+        <tbody>{renderMissionInfo(data ?? [], filters)}</tbody>
       </table>
     </div>
   );

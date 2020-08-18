@@ -4,13 +4,7 @@
   "private": true,
   "homepage": "https://yanguskhan.github.io/saga-tools/",
   "dependencies": {
-    "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
-    "@types/jest": "^24.0.0",
-    "@types/node": "^12.0.0",
-    "@types/react": "^16.9.0",
-    "@types/react-dom": "^16.9.0",
+    "cytoscape": "^3.15.2",
     "csv-parse": "^4.12.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -42,6 +36,14 @@
     ]
   },
   "devDependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "@types/cytoscape": "^3.14.7",
+    "@types/jest": "^24.0.0",
+    "@types/node": "^12.0.0",
+    "@types/react": "^16.9.0",
+    "@types/react-dom": "^16.9.0",
     "gh-pages": "^3.1.0"
   }
 }
