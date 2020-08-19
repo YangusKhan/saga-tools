@@ -1,5 +1,7 @@
 import React from "react";
 import cytoscape from "cytoscape";
+// @ts-ignore
+import klay from "cytoscape-klay";
 
 interface Props {
   data: any;
@@ -10,15 +12,21 @@ export function Flowchart({ data }: Props) {
   const cyRef = React.useRef<cytoscape.Core | null>(null);
   React.useEffect(() => {
     if (data) {
+      cytoscape.use(klay);
       cyRef.current = cytoscape({
         autoungrabify: true,
         container: containerRef.current,
         elements: data,
         layout: {
-          name: "breadthfirst",
-          fit: false,
-          circle: false,
-          directed: true,
+          // @ts-ignore
+          name: "klay",
+          fit: true,
+          // @ts-ignore
+          klay: {
+            direction: "RIGHT",
+            nodeLayering: "LONGEST_PATH",
+            spacing: 60,
+          },
         },
         style: [
           {
@@ -26,6 +34,8 @@ export function Flowchart({ data }: Props) {
             style: {
               label: "data(name)",
               shape: "rectangle",
+              "text-wrap": "wrap",
+              "text-max-width": "100px",
             },
           },
 
