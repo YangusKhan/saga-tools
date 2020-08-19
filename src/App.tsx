@@ -17,8 +17,8 @@ export type GearTypes = WeaponTypes | "Shield";
 
 interface State {
   missions: any[];
-  blacksmith: { [k in GearTypes]: cytoscape.ElementsDefinition };
-  tech_spark: { [k in WeaponTypes]: cytoscape.ElementsDefinition };
+  blacksmith: { [k in GearTypes]: cytoscape.ElementDefinition[] };
+  tech_spark: { [k in WeaponTypes]: cytoscape.ElementDefinition[] };
 }
 
 function App() {

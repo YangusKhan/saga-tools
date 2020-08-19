@@ -87,11 +87,18 @@ const blacksmithNodes = {
   Shield: [], */
 };
 const blacksmithEdges = [];
+
+function transformNameToId(name) {
+  return name.toLowerCase().replace("'", "").split(" ").join("_");
+}
+
 for (const weapon of weaponRecords) {
   const arrWeapons = blacksmithNodes[weapon.weapon_type] ?? [];
   arrWeapons.push({
+    group: "nodes",
     data: {
-      id: weapon.weapon_name,
+      id: transformNameToId(weapon.weapon_name),
+      name: weapon.weapon_name,
       type: weapon.weapon_type,
       subtype: weapon.weapon_subtype,
       smith_rank: weapon.smith_rank,
@@ -116,9 +123,10 @@ for (const weapon of weaponRecords) {
   for (const upgrade of upgradesSubset) {
     const arrEdges = blacksmithEdges[weapon.weapon_type] ?? [];
     arrEdges.push({
+      group: "edges",
       data: {
-        source: weapon.weapon_name,
-        target: upgrade.dest_item_name,
+        source: transformNameToId(weapon.weapon_name),
+        target: transformNameToId(upgrade.dest_item_name),
         smith_rank: upgrade.smith_rank,
         smith_type: upgrade.smith_type,
         materials: {
@@ -146,14 +154,12 @@ const weaponTypes = [
 const outputJSON = {
   ...JSON.parse(missionData),
   blacksmith: weaponTypes.reduce((acc, type) => {
+    const nodes = blacksmithNodes[type];
+    const edges = blacksmithEdges[type];
+    const elements = nodes.concat(edges);
     return {
       ...acc,
-      [type]: {
-        elements: {
-          nodes: blacksmithNodes[type],
-          edges: blacksmithEdges[type],
-        },
-      },
+      [type]: elements,
     };
   }, {}),
 };

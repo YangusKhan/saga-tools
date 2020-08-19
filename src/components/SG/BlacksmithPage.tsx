@@ -5,7 +5,7 @@ import { GearTypes } from "../../App";
 import "./BlacksmithPage.css";
 
 interface Props {
-  data?: { [k in GearTypes]: cytoscape.ElementsDefinition };
+  data?: { [k in GearTypes]: cytoscape.ElementDefinition[] };
 }
 
 export function BlacksmithPage(props: Props) {
