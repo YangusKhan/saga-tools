@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/saga-tools/static/css/main.89f2cafe.chunk.css",
-    "main.js": "/saga-tools/static/js/main.e6369bce.chunk.js",
-    "main.js.map": "/saga-tools/static/js/main.e6369bce.chunk.js.map",
+    "main.css": "/saga-tools/static/css/main.81d48d3a.chunk.css",
+    "main.js": "/saga-tools/static/js/main.6449ee4c.chunk.js",
+    "main.js.map": "/saga-tools/static/js/main.6449ee4c.chunk.js.map",
     "runtime-main.js": "/saga-tools/static/js/runtime-main.3f54c720.js",
     "runtime-main.js.map": "/saga-tools/static/js/runtime-main.3f54c720.js.map",
-    "static/js/2.e9919de1.chunk.js": "/saga-tools/static/js/2.e9919de1.chunk.js",
-    "static/js/2.e9919de1.chunk.js.map": "/saga-tools/static/js/2.e9919de1.chunk.js.map",
+    "static/js/2.32cbe934.chunk.js": "/saga-tools/static/js/2.32cbe934.chunk.js",
+    "static/js/2.32cbe934.chunk.js.map": "/saga-tools/static/js/2.32cbe934.chunk.js.map",
     "index.html": "/saga-tools/index.html",
-    "precache-manifest.d409708210b57326f508ad1736fff485.js": "/saga-tools/precache-manifest.d409708210b57326f508ad1736fff485.js",
+    "precache-manifest.80c27e58746a86d11dfad80a8e9a28ac.js": "/saga-tools/precache-manifest.80c27e58746a86d11dfad80a8e9a28ac.js",
     "service-worker.js": "/saga-tools/service-worker.js",
-    "static/css/main.89f2cafe.chunk.css.map": "/saga-tools/static/css/main.89f2cafe.chunk.css.map",
-    "static/js/2.e9919de1.chunk.js.LICENSE.txt": "/saga-tools/static/js/2.e9919de1.chunk.js.LICENSE.txt"
+    "static/css/main.81d48d3a.chunk.css.map": "/saga-tools/static/css/main.81d48d3a.chunk.css.map",
+    "static/js/2.32cbe934.chunk.js.LICENSE.txt": "/saga-tools/static/js/2.32cbe934.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3f54c720.js",
-    "static/js/2.e9919de1.chunk.js",
-    "static/css/main.89f2cafe.chunk.css",
-    "static/js/main.e6369bce.chunk.js"
+    "static/js/2.32cbe934.chunk.js",
+    "static/css/main.81d48d3a.chunk.css",
+    "static/js/main.6449ee4c.chunk.js"
   ]
 }
